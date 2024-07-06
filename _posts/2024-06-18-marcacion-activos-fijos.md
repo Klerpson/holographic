@@ -85,4 +85,4 @@ Su transparencia permite una **lectura clara de la información**, mientras que 
 
 Prueba las etiquetas para control de activos fijos que tenemos para ti en Holographic.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}

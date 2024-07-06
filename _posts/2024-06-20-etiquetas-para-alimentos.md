@@ -29,7 +29,7 @@ Algunas etiquetas, como los sellos y certificaciones, proporcionan información 
 
 Y por supuesto, con [Holographic puedes hacer tus etiquetas](/){:target="_blank"} para la industria alimenticia. Aquí te contamos más.
 
-[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
 ## Etiquetas holográficas y de seguridad en productos alimenticios
 
@@ -146,4 +146,4 @@ Las etiquetas de los productos alimenticios proporcionan información sobre la p
 
 >Agrega las etiquetas para los empaques de alimentos que tu empresa fabrica. Ayudarás a promover una alimentación más saludable y segura en nuestra comunidad. Y en Holographic tienes una opción segura y al precio justo para realizarlo.
 >
->[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+>[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}

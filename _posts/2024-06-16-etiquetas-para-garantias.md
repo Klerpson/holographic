@@ -4,7 +4,7 @@ title: "Etiquetas de garantía: Consíguelas con Holographic"
 description: Utiliza etiquetas de garantía para evitar pérdidas en tu empresa por reclamos injustificados. Aumenta el control y la seguridad de tu mercancía.
 autor: Hernando - Holographic
 category: "Seguridad"
-h1: Consigue etiquetas de seguridad para la garantía de tus productos con Holographic
+h1: Consigue etiquetas de seguridad para dar garantías
 intro: Las etiquetas de seguridad te ahorrarán gastos innecesarios al regular las garantías que ofrece tu empresa. ¡Conócelas!
 jpg: img/etiqueta-garantia.jpg
 hero: img/etiqueta-garantia.webp
@@ -25,7 +25,7 @@ Para conseguir esta meta, utiliza las etiquetas de garantía que podemos [fabric
 
 Estos **stickers de garantía son una novedosa herramienta con desarrollos propios de Holographic** que te ayudarán cuidar tu rentabilidad. Además, controlarás las garantías de manera segura, efectiva y económica.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## Conoce algunas de las etiquetas de garantía Holographic
 
@@ -78,4 +78,4 @@ Los sellos holográficos de garantía te proporcionan una combinación de seguri
 
 Explora todos los beneficios que tenemos para tu negocio en Holographic con nuestros sellos de garantía profesionales.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}

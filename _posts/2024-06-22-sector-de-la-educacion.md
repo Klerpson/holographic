@@ -28,7 +28,7 @@ En una sociedad dónde la falsificación de documentos está a la orden del día
 
 Hoy queremos contarte por qué los hologramas de seguridad son una de las alternativas de protección más usadas por el sector y como aplicarlas correctamente en un documento educativo.
 
-[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
 ## Importancia de los hologramas en la educación
 
@@ -103,4 +103,4 @@ Analizamos que, para evitar falsificaciones, las instituciones pueden hacer uso 
 
 ¿Quieres dar el paso y aplicar los beneficios de nuestros hologramas en tus documentos educativos?
 
-[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}

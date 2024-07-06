@@ -26,7 +26,7 @@ En el mundo del comercio a domicilio, garantizar la seguridad y la integridad de
 
 **Nuestros adhesivos de seguridad para domicilios están diseñados para proporcionar una capa adicional de protección a tus entregas**, asegurando que lleguen en perfectas condiciones a manos de tus clientes.
 
-[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
 ## Ventajas de las cintas de seguridad para domicilios
 
@@ -121,4 +121,4 @@ Protege tus entregas y ofrece a tus clientes la tranquilidad de recibir sus prod
 
 >Nuestro compromiso en Holographic es por brindar productos de alta calidad y al mejor precio. ¡Pregunta nuestras etiquetas hoy mismo y da un paso adelante en la protección y presentación de tus envíos!
 >
->[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+>[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}

@@ -28,7 +28,7 @@ Durante años, las etiquetas de cáscara de huevo han sido una herramienta valio
 
 ¿Por qué sucede esto? A continuación, exploramos las razones y las alternativas tecnológicas que están reemplazando a estas etiquetas.
 
-[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
 ## ¿Qué son las etiquetas cáscara de Huevo?
 
@@ -82,6 +82,6 @@ Si buscas proteger tus productos de manera efectiva, considera la transición ha
 
 >Para obtener más información sobre cómo los hologramas pueden beneficiar a tu empresa, contacta con **Holographic** y descubre nuestras opciones disponibles.
 >
->[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+>[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
 {% include relacionados.html %}

@@ -26,7 +26,7 @@ Te presentamos las **etiquetas y códigos holográficos para medicamentos**.
 
 La seguridad y la autenticidad de tus productos es muy importante. Por eso aquí en Holographic queremos ayudarte a encontrar la mejor opción para proteger y llevar el control de tu empresa al menor costo.
 
-[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
 ## ¿En qué consisten las etiquetas para medicamentos?
 
@@ -86,4 +86,4 @@ Nuestro compromiso en Holographic es brindarte la mejor calidad en todas nuestra
 
 >Implementa nuestras etiquetas de seguridad para medicamentos en tus productos y explora las ventajas únicas que ofrecen para tu empresa farmacéutica.
 >
->[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+>[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}

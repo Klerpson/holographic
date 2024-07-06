@@ -61,7 +61,7 @@ La trazabilidad interna garantiza el cumplimiento de estos requisitos legales al
 
 Y, finalmente, proporciona una mayor transparencia y confianza tanto a los consumidores como a los organismos de control, lo que aumenta la competitividad de la empresa en el mercado.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## Cómo implementar un sistema de trazabilidad interna en tu empresa
 
@@ -272,7 +272,7 @@ En resumen, la trazabilidad en el sector farmacéutico en Ecuador es fundamental
 
 >Las empresas deben implementar sistemas de trazabilidad robustos que **incluyan el registro de insumos, el control de procesos, el etiquetado y codificación de productos, y la realización de auditorías y verificaciones**. Con estas medidas, es posible mejorar la seguridad del paciente, aumentar la confianza y transparencia, y optimizar los procesos en la cadena de suministro farmacéutica.
 >
->[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+>[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## Trazabilidad interna vs. trazabilidad externa: diferencias y beneficios
 
@@ -310,7 +310,7 @@ Estos sistemas permiten un registro y seguimiento eficiente de los productos, de
 
 >Los sistemas de gestión de inventario ofrecen funcionalidades que permiten una mejor planificación y gestión de inventarios, optimizando así los recursos y reduciendo los costos en la cadena de suministro.
 >
->[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+>[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## Trazabilidad interna y cadena de valor: optimiza tus procesos con Holographic
 

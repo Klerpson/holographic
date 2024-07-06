@@ -25,7 +25,7 @@ Los códigos y cintas de protección son esenciales para **garantizar la autenti
 
 En Holographic, diseñamos estos elementos de seguridad con los más altos estándares de calidad y protección, para adaptarse perfectamente a tus necesidades.
 
-[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
 ## Alternativas de cintas y etiquetas de seguridad profesionales
 
@@ -107,4 +107,4 @@ Las etiquetas, códigos y stickers holográficas son indispensables para las aut
 
 >Aquí en Holographic estamos para ayudarte a fortalecer la seguridad y aumentar la autenticidad de los documentos y procesos de las autoridades. ¡Contáctanos!
 >
->[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+>[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}

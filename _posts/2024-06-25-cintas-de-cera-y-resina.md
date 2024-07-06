@@ -21,7 +21,7 @@ alt: Fotografía de cintas de cera
 
 En el mundo de la impresión térmica, la elección entre cintas de cera y resina es crucial para obtener resultados óptimos. Esta guía te ayudará a tomar la mejor decisión para tus necesidades de etiquetado e impresión.
 
-[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
 ## Comparativa entre las cintas de cera y las cintas de resina
 
