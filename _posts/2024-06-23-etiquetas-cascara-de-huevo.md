@@ -2,7 +2,7 @@
 layout: post
 title: "Cáscara de Huevo vs Etiquetas Holográficas - Holographic"
 description: "Las etiquetas y pegatinas cáscara de huevo transforman tu papelería. Mira aplicaciones únicas y diseños. Y porqué perdieron utilidad. Más aquí."
-h1: "Hologramas en certificados y diplomas: Seguridad para el sector educativo"
+h1: "Etiquetas cáscara de huevo: ¿Por qué las reemplazaron con etiquetas holográficas?"
 intro: "¿Papel cáscara de huevo o común? Analizamos pros y contras, y la mejor opción."
 autor: Diana - Holographic
 category: "Antifalsificación"
