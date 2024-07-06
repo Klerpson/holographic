@@ -23,7 +23,7 @@ Recibe nuestra atención personalizada con soluciones y productos a la medida de
 
 ### Contáctanos por estos medios
 
-* ![Líneas de celular de Holographic]({{'img/celular.svg' | relative_url }}) **Líneas de celular**: 👉 [{{site.telefono}}](tel:{{site.telefono}}){:rel="nofollow noopener noreferrer" target="_blank"} - 👉 [+593999664859](tel:+593999664859){:rel="nofollow noopener noreferrer" target="_blank"}
+* ![Líneas de celular de Holographic]({{'img/celular.svg' | relative_url }}) **Líneas de celular**: 👉 [{{site.telefono}}](tel:{{site.telefono}}){:rel="nofollow noopener noreferrer" target="_blank" id="lead_whatsapp"} - 👉 [+593999664859](tel:+593999664859){:rel="nofollow noopener noreferrer" target="_blank" id="lead_whatsapp"}
 * ![Horarios de Holographic]({{'img/horario.svg' | relative_url }}) **Horarios de atención**: Lunes a viernes: 7:00 am. a
 5:30 pm. - Sábado y Domingo: Cerrado
 

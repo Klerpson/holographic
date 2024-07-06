@@ -29,7 +29,7 @@ Nuestra [etiqueta holográfica con un diseño premium]({{'productos/etiquetas-pr
 {:class="resaltar"}
 
 >Con la calidad de los materiales que utilizamos en Holographic, tus stickers de seguridad vehicular no se perderán debido a los factores del clima o del ambiente.
-[Asesórate gratis]({{site.whatsapp}}%20:%20{{page.h1}}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{site.whatsapp}}%20:%20{{page.h1}}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## ¿Qué son las etiquetas de seguridad vehicular?
 
@@ -82,7 +82,7 @@ Este número es utilizado en trámites legales, seguros, y para rastrear el hist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n1A66UVuwrY?si=Rmbu-BW_WW7-C6pl&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >La utilización de etiquetas de seguridad vehicular ofrece una variedad de beneficios significativos para las empresas, especialmente aquellas involucradas en la **fabricación, mantenimiento, gestión de flotas y venta de vehículos**.
-[Asesórate gratis]({{site.whatsapp}}%20:%20{{page.h1}}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{site.whatsapp}}%20:%20{{page.h1}}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 A continuación, te detallamos los principales beneficios:
 
@@ -93,6 +93,6 @@ A continuación, te detallamos los principales beneficios:
 5. **Facilita la compra y venta de vehículos:** Las etiquetas de seguridad *proporcionan información valiosa que puede ser utilizada durante el proceso de venta y reventa de vehículos*. Los compradores pueden tomar decisiones informadas basadas en las características de seguridad y el historial de mantenimiento del vehículo.
 6. **Gestionan los riesgos y responsabilidad legal:** Al garantizar que los vehículos cumplan con todas las normativas de seguridad, las etiquetas ayudan a las empresas a mitigar riesgos y responsabilidades legales. Esto es especialmente *importante en caso de accidentes o fallos mecánicos*, donde la documentación adecuada puede ser crucial.
 
-[Asesórate gratis]({{site.whatsapp}}%20:%20{{page.h1}}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{site.whatsapp}}%20:%20{{page.h1}}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh9JpQbuICk?si=PcqqDOkytQRGzVei&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -45,7 +45,7 @@ Si buscas un servicio de mantenimiento especializado para tu impresora térmica,
 Nuestro **equipo de técnicos altamente capacitados para reparar y mantener impresoras térmicas**, se encarga de realizar tanto mantenimiento preventivo como correctivo, asegurando un funcionamiento óptimo de las impresoras.
 
 >Para obtener asistencia técnica de Holographic, solo debes hacer una solicitud haciendo clic en el siguiente botón.
-[Programa tu mantenimiento]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Programa tu mantenimiento]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## Los tipos de mantenimiento para impresoras térmicas que te recomendamos
 
@@ -77,7 +77,7 @@ Algunos problemas comunes que se pueden resolver con el mantenimiento correctivo
 Para realizar este tipo de mantenimiento, es importante contar con profesionales. Por eso te invitamos a escribirnos y enviarnos tu solicitud.
 {:id="como-hacer-mantenimiento"}
 
-[Programa tu mantenimiento]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Programa tu mantenimiento]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## Mantenimiento especializado para impresoras térmicas holográficas de Holographic S.A.S.
 
@@ -102,7 +102,7 @@ Algunos de los servicios de mantenimiento especializados que ofrece Holographic 
 
 Contar con un servicio especializado como Holographic para el mantenimiento de tus impresoras térmicas holográficas asegurará que estos dispositivos funcionen de manera óptima y brinden la máxima seguridad en tus etiquetas holográficas.
 
-[Programa tu mantenimiento]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank"}
+[Programa tu mantenimiento]({{ site.whatsapp }}){:class="boton boton_2" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## Conclusiones y recomendaciones finales
 

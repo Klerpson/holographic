@@ -48,7 +48,7 @@ Nuestras estampillas abarcan una variedad de tecnologías que se combinan con un
 Las estampillas para las botellas de licor que fabricamos en Holographic son **ideales para consumos de más de 1.000 unidades**.
 {:class="resaltar"}
 
-[Asesórate gratis]({{ site.whatsapp }} "Pide estampillas para licores"){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }} "Pide estampillas para licores"){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## Diseño de las estampillas para licores personalizada
 {:id="hologramas-de-seguridad"}
@@ -69,7 +69,7 @@ En cuanto a los diseños, las estampillas y etiquetas de licor suelen incluir el
 
 Asimismo, algunos países y marcas utilizan características específicas en sus estampillas, como marcas de agua, tintas especiales y materiales de seguridad.
 
-[Asesórate gratis]({{ site.whatsapp }} "Pide estampillas para licores"){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }} "Pide estampillas para licores"){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 ## Características especiales de las estampillas de licores de Holographic
 
@@ -106,10 +106,9 @@ Asimismo, algunos países y marcas utilizan características específicas en sus
 - **Hoteles y entretenimiento**: Seguridad garantizada para productos consumidos y comercializados, evitando que el personal encargado genere pérdidas o problemas legals a la empresa.
 
 >Conoce nuestras estampillas de seguridad para licores y cumple con las normas del gobierno de tu zona de distribución. ¡Asesórate gratis con nosotros hoy mismo!
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 {% include slider.html %}
-
 
 ## Contáctanos y cumple con la norma de las estampillas para licores
 {:id="etiquetas-seguras-e-imposibles-de-falsificar"}
@@ -123,4 +122,4 @@ A lo largo de los años, las estampillas y etiquetas de licor han evolucionado, 
 ¿Protegemos tu mercancía de licores de la adulteración y falsificación? Prueba las **estampillas de seguridad para botellas de licor** que tenemos para ti en Holographic.
 
 >¿Sabías que existe una aplicación web para **verificar las estampillas de licores**? Es la página de [tti-consumo](https://qrcol.net/){:rel="nofollow noopener noreferrer" target="_blank"}
-[Asesórate gratis]({{ site.whatsapp }} "Consigue estampillas de licor"){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }} "Consigue estampillas de licor"){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}

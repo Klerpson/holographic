@@ -42,7 +42,7 @@ Utilizamos diferentes tecnologías de origen. Se pueden fabricar mezclando dos t
 Son **ideales para consumos de más de 50.000 unidades**.
 {:class="resaltar"}
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 {% include videos.html %}
 {:id="niveles-seguridad"}
@@ -80,6 +80,6 @@ Escríbenos y comencemos el desarrollo de los stickers holográficos Platinum pa
 
 Con nuestra experiencia y el conocimiento que tienes de tu gremio, vamos a ofrecerte **más seguridad para la inversión de tu mercancía. Y ahora ganarás más rentabilidad al evitar pérdidas** por la falta de honestidad de tu mercado. ¿Comenzamos?
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 {% include slider.html %}

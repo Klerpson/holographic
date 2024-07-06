@@ -42,7 +42,7 @@ Diseñamos y fabricamos etiquetas con un diseño holográfico exclusivo propieda
 Son **ideales para consumos de más de 100.000 unidades**.
 {:class="resaltar"}
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="enlace1"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="enlace1 lead_whatsapp"}
 
 {% include videos.html %}
 {:id="caracteristicas-stickers-premium"}
@@ -59,7 +59,7 @@ Son **ideales para consumos de más de 100.000 unidades**.
 | Muestra apertura en la superficie donde se pega o en la etiqueta | Garantiza la integridad del producto | Deja rastros visibles si se intenta despegar |
 | No permite que las etiquetas sean reutilizables | Evita el uso no autorizado de etiquetas | Una vez despegada, la etiqueta se destruye o daña |
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="niveles-de-seguridad"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="niveles-de-seguridad lead_whatsapp"}
 
 {% include slider.html %}
 
@@ -102,7 +102,7 @@ Este producto de **los hologramas platinum cuenta con un nivel de seguridad NIVE
 * **05 - Globo 3D**: La imagen del globo se ha proporcionado como un objeto 3D puro y representa un ligero movimiento al cambiar el ángulo de visión del holograma.
 
 >**Estos stickers personalizados tienen la capacidad de difractar la luz**. Estos agrega una visualización difícil de copiar con impresiones convencionales y minimiza la capacidad de falsificación.
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 {:id="stickers-premium-con-evidencia-de-despegado"}
 
 ## Servicio premium de hologramas con evidencia de despegado (Tamper Evident)
@@ -136,4 +136,4 @@ Los sectores o industrias que **más solicitan el servicio de hologramas de segu
 
 ¿Está tu empresa o tu gremio en esta lista? Puedes escribirnos y recibir asesoría gratuita sobre nuestras soluciones para proteger tus productos y tu empresa
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}

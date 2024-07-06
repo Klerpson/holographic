@@ -79,7 +79,7 @@ No permitas que la falsificación amenace tu negocio. Estamos aquí para ayudart
 
 Contáctanos hoy mismo para una consulta personalizada y descubre cómo podemos ayudarte a salvaguardar tu marca y productos.
 
-[Escríbenos por WhatsApp]({{site.whatsapp}}) y obtén una respuesta inmediata.
+[Escríbenos por WhatsApp]({{site.whatsapp}}){:rel="nofollow noopener noreferrer" target="_blank" id="lead_whatsapp"} y obtén una respuesta inmediata.
 
 ---
 

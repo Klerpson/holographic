@@ -34,7 +34,7 @@ fotos:
   - Foto de cintas void: img/holograma-void.webp
   - Imagen de etiqueta seguridad void: img/rollo-etiquetas-void.webp
 ---
-[Consigue tus etiquetas VOID]({{site.whatsapp}}%20:%20{{page.h1}} "Etiquetas VOID Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[Consigue tus etiquetas VOID]({{site.whatsapp}}%20:%20{{page.h1}} "Etiquetas VOID Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
 
 ## ¿Qué son las etiquetas VOID de seguridad?
 {:id="que-son"}
@@ -73,7 +73,7 @@ Son un tipo de etiquetas de seguridad de color blanco, que muestran una doble ev
 
 | Nombre               | Tipos                       | Detalles                                                                 |
 |----------------------|-----------------------------|--------------------------------------------------------------------------|
-| Etiquetas void blancas <br> **No son reutilizables. Disponibles con o sin impresión** | - Logos<br>- Consecutivos<br> - Códigos de barras | Medidas disponibles: <br>- 15 mm X 10mm<br>- 22 mm X 15 mm<br>- 50mm X 10mm<br>- 50mm X 25 mm<br>* Presentación rollos <br> *Si requieres  otra medida. [Te asesoramos]({{site.whatsapp}}%20:%20{{page.h1}} "Contáctanos"){:target="_blank" rel="nofollow noopener"}*|
+| Etiquetas void blancas <br> **No son reutilizables. Disponibles con o sin impresión** | - Logos<br>- Consecutivos<br> - Códigos de barras | Medidas disponibles: <br>- 15 mm X 10mm<br>- 22 mm X 15 mm<br>- 50mm X 10mm<br>- 50mm X 25 mm<br>* Presentación rollos <br> *Si requieres  otra medida. [Te asesoramos]({{site.whatsapp}}%20:%20{{page.h1}} "Contáctanos"){:target="_blank" rel="nofollow noopener" id="lead_whatsapp"}*|
 
 ### Cintas de seguridad VOID para contenedores
 
@@ -88,7 +88,7 @@ Se suelen agregar a las **cintas VOID información como consecutivos, [códigos 
 Las cintas VOID que consigues en Holographic se fabrican con un material muy resistente. Para que su desempeño sea el esperado se debe **limpiar cuidadosamente la superficie del contenedor** donde esta va a ser adherida.
 
 > Toaas las etiquetas VOID de seguridad son 100% personalizable, para adaptarse perfectamente a tus necesidades y a las de tu empresa.
-[Consigue tus etiquetas VOID]({{site.whatsapp}}%20:%20{{page.h1}} "Contáctanos"){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[Consigue tus etiquetas VOID]({{site.whatsapp}}%20:%20{{page.h1}} "Contáctanos"){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
 
 ## Tipos de etiquetas VOID que puedes pedir en Holographic
 
@@ -114,7 +114,7 @@ Algunos de los usos más frecuentes para las etiquetas VOID personalizadas son:
 - Etiquetas de productos
 
 > En HoloGraphic queremos brindarte justo lo que necesitas en etiquetas y cintas VOID, con la mejor asesoría, y por supuesto, al mejor precio. ¡Esa es nuestra misión!  
-> [Asesórate gratis sobre las eiiquetas VOID]({{site.whatsapp}}%20:%20{{page.h1}} "Pide etiquetas VOID"){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+> [Asesórate gratis sobre las eiiquetas VOID]({{site.whatsapp}}%20:%20{{page.h1}} "Pide etiquetas VOID"){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
 
 ## ¿Cuáles son las ventajas de utilizar etiquetas VOID en tu empresa?
 {:id="ventajas"}

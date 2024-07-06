@@ -31,7 +31,7 @@ videos:
   - videos/rollo-hologramas.mp4
   - videos/rollo-holografico.mp4
 ---
-[Pide tus rollos holográficos]( {{site.whatsapp}}%20:%20{{page.h1}} "Pide tus rollos holográficos" ){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[Pide tus rollos holográficos]( {{site.whatsapp}}%20:%20{{page.h1}} "Pide tus rollos holográficos" ){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
 
 ## Las bobinas de papel holográfico de Holographic son perfectas para tu empresa proveedora de stickers holográficos
 {:id="holographic"}
@@ -50,7 +50,7 @@ La bobina de papel se transforma en una herramienta avanzada cuando se integra c
   Pueden soportar variaciones térmicas sin perder adherencia, garantizando una aplicación duradera y fiable. **Puedes trabajar con la técnica Hot Stamping con estos rollos de etiquetas**
 {:class="productos_beneficios"}
 
-[Pide tus rollos holográficos]( {{site.whatsapp}}%20:%20{{page.h1}} "Pide tus rollos holográficos" ){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[Pide tus rollos holográficos]( {{site.whatsapp}}%20:%20{{page.h1}} "Pide tus rollos holográficos" ){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
 
 {% include slider.html %}
 {:id="caracteristicas"}
@@ -82,4 +82,4 @@ Estas bobinas pueden encontrarse en presentaciones como **la bobina de papel ele
 Si estás buscando incrementar la seguridad de tus productos o darle un impulso a tu campaña publicitaria, nuestras bobinas de papel holográfico ofrecen una solución a medida.
 
 > Consulta nuestro catálogo y encuentra la bobina perfecta para tus necesidades. ¡Eleva la presentación y protección de tus productos con nosotros hoy mismo!
-[Pide tus rollos holográficos]( {{site.whatsapp}}%20:%20{{page.h1}} "Pide tus rollos holográficos" ){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[Pide tus rollos holográficos]( {{site.whatsapp}}%20:%20{{page.h1}} "Pide tus rollos holográficos" ){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}

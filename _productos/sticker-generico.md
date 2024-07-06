@@ -23,7 +23,7 @@ videos:
   - videos/adhesivo-holografico-sin-personalizar.mp4
   - videos/etiqueta-holografica.mp4
 ---
-[**Pide tus stickers genéricos**]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[**Pide tus stickers genéricos**]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
 
 ## Reduce tus pérdidas con nuestras etiquetas holográficas más accesibles
 {:id="sticker-generico"}
@@ -40,7 +40,7 @@ La disponibilidad de este material es inmediata y sin restricciones. Sus princip
 4. **Variedad de diseños.** Disponibles en una amplia gama de estilos y colores, las etiquetas holográficas se adaptan a diferentes gustos y necesidades.
 5. **Efecto visual impactante.** Las etiquetas con hologramas cambian de color y brillo según el ángulo de visión, haciendo que los productos destaquen notablemente.
 
-[**Pide tus stickers genéricos**]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[**Pide tus stickers genéricos**]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
 
 ---
 
@@ -56,7 +56,7 @@ Las etiquetas holográficas genéricas son **stickers con patrones no registrado
 
 Si ese es tu caso, escríbenos y recibe más asesoría aquí.
 
-[**Pide tus stickers genéricos**]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[**Pide tus stickers genéricos**]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
 
 ### Niveles de Seguridad de los stickers holográficos genéricos
 
@@ -86,4 +86,4 @@ Esta tecnología permite crear imágenes visibles e imágenes encubiertas en los
 
 En Holographic valoramos el tiempo y los recursos de las empresas que **necesitan una solución de hologramas de seguridad sin una personalización**. Contáctanos y permítenos asesorarte para que asegures tu mercancía con nuestros hologramas.
 
-[**Pide tus stickers genéricos**]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[**Pide tus stickers genéricos**]({{site.whatsapp}}%20:%20{{page.h1 }}){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}

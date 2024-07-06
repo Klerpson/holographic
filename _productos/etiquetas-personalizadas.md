@@ -53,7 +53,7 @@ Son **ideales para consumos desde 1000 unidades hasta 50.000 unidades**.
 [Los hologramas de Holographic](/) contienen elementos de diferenciación y protección sobre sus productos para prevenir posibles falsificaciones y adulteraciones.
 
 >La característica principal de estas etiquetas es que **el diseño personalizado y las medidas de seguridad nunca se afectarán al momento del corte**. Es la diferencia principal con los hologramas genéricos.
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="caracteristicas"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="caracteristicas" id="lead_whatsapp"}
 
 ### ¿Quieres que con tus sellos personalizadas tus productos resalten sobre la competencia?
 
@@ -92,7 +92,7 @@ Al retirarse de la superficie **se evidencian hexágonos dispuestos modularmente
 
 Algunos de nuestros clientes desean tener la característica TAMPER EVIDENT. Sin embargo, no quieren que en la superficie quede la evidencia. Para ellos contamos con **evidencia de panal de abejas**, la cual queda sobre la etiqueta dejando la superficie limpia. No son reutilizables y, al igual que las anteriores, se evidencia cualquier intento de apertura.
 
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 {% include videos.html %}
 
@@ -131,7 +131,7 @@ Nuestras **etiquetas transparentes personalizadas** permiten ser aplicadas sobre
 Algunos de nuestros clientes tienen ciertas **regulaciones que les impiden cubrir total o parcialmente información de las cajas o empaques primarios**.
 
 >Los hologramas transparentes funcionan con las mismas características y efectos de seguridad que los hologramas de color, sin alterar la visibilidad de los empaques aprobados por las entidades reguladoras.
-[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank"}
+[Asesórate gratis]({{ site.whatsapp }}){:class="boton boton_1" rel="nofollow noopener" target="_blank" id="lead_whatsapp"}
 
 Estas son ideales para ser aplicadas en la industria farmacéutica, cosméticos, productos de uso personal y en aplicaciones con documentos.
 
