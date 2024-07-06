@@ -63,27 +63,78 @@ Son **ideales para consumos de más de 100.000 unidades**.
 
 {% include slider.html %}
 
-## Niveles de Seguridad de los stickers platinum de Holographic
+<section class="wrapper flow">
+  <h2>Niveles de seguridad que ofrecen los stickers holográficos de Holographic</h2>
 
-### 1. Sticker con nivel de seguridad 1
+  <table>
+    <thead>
+      <tr>
+        <th>Nivel de Seguridad</th>
+        <th>Descripción</th>
+        <th>Ejemplos de Uso</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Nivel 1:</strong><br>Características visibles</td>
+        <td>Contiene elementos visibles obtenidos de objetos reales, fáciles de identificar a simple vista.</td>
+        <td>
+          <ul>
+            <li>Entradas para eventos</li>
+            <li>Etiquetas de productos de bajo costo</li>
+            <li>Tarjetas de identificación básicas</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Nivel 2:</strong><br>Imágenes encubiertas</td>
+        <td>Utiliza tecnología de pixeles para crear imágenes visibles y encubiertas en los hologramas.</td>
+        <td>
+          <ul>
+            <li>Billetes de baja denominación</li>
+            <li>Documentos oficiales simples</li>
+            <li>Certificados académicos</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Nivel 3:</strong><br>Alta resolución</td>
+        <td>Genera imágenes a más de <strong>120.000 dpi</strong>, con opciones de anulación de colores y creación de relieve.</td>
+        <td>
+          <ul>
+            <li>Pasaportes</li>
+            <li>Licencias de conducir</li>
+            <li>Billetes de alta denominación</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Nivel 4:</strong><br>Máxima seguridad</td>
+        <td>Tecnología avanzada que produce objetos del tamaño de micrones con características únicas, imposibles de replicar.</td>
+        <td>
+          <ul>
+            <li>Documentos gubernamentales de alto nivel</li>
+            <li>Billetes de banco de países desarrollados</li>
+            <li>Contratos internacionales</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Nivel 5:</strong><br>Nano ópticas</td>
+        <td>Imágenes nano ópticas con tamaños de hasta <strong>300 nm</strong>, estructuras 3D increíblemente realistas y características encubiertas que requieren equipos especializados para su identificación.</td>
+        <td>
+          <ul>
+            <li>Documentos de seguridad nacional</li>
+            <li>Acceso a instalaciones de máxima seguridad</li>
+            <li>Protección de información clasificada</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
 
-Elementos que contienen características visibles, las cuales se pueden obtener a partir de un objeto real.
-
-### 2. Sticker con nivel de seguridad 2
-
-Esta tecnología permite crear imágenes visibles e imágenes encubiertas en los hologramas a partir de pixeles que en conjunto crean las imágenes de los hologramas.
-
-### 3. Sticker con nivel de seguridad 3
-
-Tecnología que permite generar imágenes a una resolución superior a 120.000 dpi. A diferencia de otras tecnologías, las cuales permiten visualizar las características en los colores del espectro visible (arcoíris), esta tecnología permite anular colores. También permite generar relieve.
-
-### 4. Sticker con nivel de seguridad 4
-
-Es la tecnología de generación de más alta seguridad, no se mide en dpi, ya que se pueden generar objetos del tamaño de micrones. Se pueden generar características únicas por lo cual no es posible de ser replicada.
-
-### 5. Sticker con nivel de seguridad 5
-
-#### Este es el nivel de seguridad de los stickers holográficos platinum de Holographic
+## El nivel 5 es el nivel de seguridad de los stickers holográficos platinum de Holographic
 
 La más alta resolución en imágenes holográficas, imágenes nano ópticas. Se alcanzan tamaños de 300 nm, estructuras visuales 3D con una apariencia increíblemente real. Imágenes encubiertas que requieren equipos especializados para identificarla, por lo cual son imposibles de falsificar.
 
