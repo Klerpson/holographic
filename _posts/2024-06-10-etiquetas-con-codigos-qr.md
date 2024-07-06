@@ -53,7 +53,7 @@ Las etiquetas con código QR son ideales empresas que buscan una forma eficiente
 
   ¿Qué esperas? Entérate de cuál es la mejor manera de utilizar el código QR en tus productos con [Holographic Ecuador](/){:target="_blank"}.
 
-  [Obtén tus stickers holográficos]({{'productos/stickers-holograficos' | relative_url}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}
+  [Obtén tus stickers holográficos]({{'contacto' | relative_url}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}
 
   {% include videos.html %}
 
@@ -107,7 +107,7 @@ Al escanear un código QR en un folleto de un destino turístico, los visitantes
 - Personalización de la experiencia turística.
 - Facilidad para compartir información con otros viajeros.
 
-[Obtén tus stickers holográficos]({{'productos/stickers-holograficos' | relative_url}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}
+[Obtén tus stickers holográficos]({{'contacto' | relative_url}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}
 
   {% include slider.html %}
 
@@ -212,4 +212,4 @@ Si bien estas tecnologías ofrecen diferentes ventajas y aplicaciones, el códig
   >
   > Empieza a integrarlos en tus productos, estrategias de marketing y operaciones comerciales para aumentar la eficiencia, mejorar la experiencia del cliente y llevar tu negocio al siguiente nivel.
   >
-  > [Obtén tus stickers holográficos]({{'productos/stickers-holograficos' | relative_url}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}
+  > [Obtén tus stickers holográficos]({{site.whatsapp}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}
