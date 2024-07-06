@@ -31,7 +31,7 @@ Estos hologramas tienen propiedades únicas que los hacen **altamente efectivos 
 
 A lo largo de la historia, han evolucionado para convertirse en una medida de seguridad ampliamente reconocida en diversos sectores.
 
-[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
 ## ¿Cómo funciona un holograma?
 
@@ -83,4 +83,4 @@ Los stickers holográficos son un tipo de imágenes tridimensionales diseñadas 
 
 >Mejora la protección y aumenta la seguridad de tus productos, con nuestros hologramas de seguridad. Explora las opciones disponibles en [Holographic](/){:target="_blank"}⁠.
 >
->[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer"}
+>[Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
