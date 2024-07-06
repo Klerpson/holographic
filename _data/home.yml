@@ -101,12 +101,6 @@ impresiones:
     p: 🖨️ Distribuimos impresoras de etiquetas
     url: "productos/impresoras-termicas"
     title: Mantenimiento impresoras de etiquetas
-  - img: img/impresora-termica.webp
-    alt: Impresora térmica descompuesta
-    nombre: Mantenimiento de impresoras
-    p: 🪛 Mantenimiento de impresoras térmicas
-    url: "blog/mantenimiento-preventivo-de-impresoras-termicas"
-    title: Etiquetas de papel para impresora térmica
   - img: img/lector-de-codigo-de-barras-inhalambrico.webp
     alt: Lector de códigos de barras
     nombre: Lectores códigos de barras
