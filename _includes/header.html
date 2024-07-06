@@ -25,7 +25,7 @@
       <h1>{{page.h1}}</h1>
     </div>
     <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
-    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
 
 {% when "post" %}
 <header class="post_header wrapper">
@@ -44,7 +44,7 @@
     <div>
       <h1>{{page.h1}}</h1>
       <p>{{page.intro}}</p>
-      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
     </div>
   </div>
   <div class="header_mini_bloque bg">

@@ -154,7 +154,7 @@ En este cuadro comparativo te mostramos todas **características y ventajas de l
 
 No te pierdas la oportunidad de probar los códigos de barras profesionales que tenemos para ti aquí en Holographic.
 
-[Asesórate gratis]({{site.whatsapp}} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[Asesórate gratis]({{site.whatsapp}} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
 
 ## Aumenta la eficiencia en la protección de tus activos con adhesivos de códigos de barras
 
@@ -170,4 +170,4 @@ Una opción valiosa y viable para las empresas que buscan mejorar la eficiencia 
 - Etiquetas de productos
 
 > Aquí en HoloGraphic queremos brindarte justo lo que necesitas, con la mejor asesoría y por supuesto, al mejor precio. ¡Esa es nuestra misión!
-[Asesórate gratis]({{site.whatsapp}} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener"}
+[Asesórate gratis]({{site.whatsapp}} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener" id="lead_whatsapp"}
