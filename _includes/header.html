@@ -1,0 +1,59 @@
+{% assign layout = page.layout %}
+{% case layout %}
+
+{% when "default" %}
+<header class="bloques wrapper">
+  <div class="header_mini_bloque bg">
+    <h2>Proteja su marca y sus productos con hologramas antifalsificación</h2>
+    <img src="{{ 'img/sticker-holografico-azul-turquesa.webp' | relative_url }}" alt="Sticker de Holographic" title="Etiqueta de seguridad">
+  </div>
+  <div class="header_bloque bloque_big" style="background: transparent;">
+    <video autoplay muted loop playsinline preload="auto">
+      <source src="{{ 'videos/sticker-premium.mp4' | relative_url }}" type="video/mp4">
+      Tu navegador no soporta la etiqueta de video.
+    </video>
+    <div>
+      <p>{{page.intro}}</p>
+      <h1>{{page.h1}}</h1>
+      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+    </div>
+  </div>
+  
+  {% when "pagina" %}
+  <header class="post_header wrapper">
+    <div class="header_bloque flow">
+      <h1>{{page.h1}}</h1>
+    </div>
+    <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
+    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+
+{% when "post" %}
+<header class="post_header wrapper">
+  <div class="bg flow">
+    <h1>{{page.h1}}</h1>
+    <p>{{page.intro}}</p>
+    <small>Autor: {{page.autor}} | Temática: {{page.category}}</small>
+    <small><b>📍Estás aquí: </b><a href="/" title="Página de inicio">Inicio</a>/<a href="{{'blog' | relative_url}}" title="Blog Holographic">Blog</a>/{{page.title}}</small>
+  </div>
+    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
+
+{% else %}
+<header class="bloques wrapper">
+  <div class="header_bloque bloque_big">
+    <img src="{{page.hero |relative_url}}" alt="{{page.alt}}">
+    <div>
+      <h1>{{page.h1}}</h1>
+      <p>{{page.intro}}</p>
+      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" %}
+    </div>
+  </div>
+  <div class="header_mini_bloque bg">
+    <h4>Accesos rápidos</h4>
+    {% for items in page.enlaces %}
+    {% for item in items %}
+      <a href="{{item[1]}}">› {{item[0]}}</a>
+    {% endfor %}
+    {% endfor %}
+  </div>
+{% endcase %}
+</header>
