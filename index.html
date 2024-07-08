@@ -114,17 +114,17 @@ alt: Rollo de stickers holográficos
   </div>
 </section>
 
-<section class="wrapper flow">
+<section class="wrapper flow entradas">
   <h2>Aprende más de protección de mercancías y trazabilidad con adhesivos holográficos y de impresión</h2>
   <p>Investigamos, preparamos y te compartimos toda las información necesaria para proteger tus activos con sellos y adhesivos. Con esta información podrás entender mejor <strong>las ventajas de utilizar estas herramientas de antifalsificación de productos y trazabilidad de envíos y mercancía</strong>.</p>
   <h3>Últimas noticias y artículos de Holographic</h3>
   <div class="blog_gallery">
     {% for post in site.posts limit: 4 %}
-    <article class="flow">
-      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="600" height="340" title="{{post.title}}">
+    <article class="article">
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="200" height="120">
       <div class="flow">
         <a href="{{post.url|relative_url}}" title="{{post.title}}"><h4>{{post.h1}}</h4></a>
-        <p>{{post.description}}</p>
+        <small>{{post.intro}}</small>
       </div>
     </article>
     {% endfor %}
