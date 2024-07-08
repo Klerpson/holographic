@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es-ec">
   <head>
     <meta charset="utf-8" >
     <meta http-equiv="X-UA-Compatible" content="IE=edge" >
     <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui" >
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" >
+    <link rel="alternate" hreflang="es-ec" href="{{ page.url | absolute_url }}">
     <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}" >
     <title>{{ page.title}}</title>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}" >
@@ -14,18 +15,19 @@
     {% else %}
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" >
     {% endif %}
-    <meta name="language" content="es_CO" >
-    <meta name="country" content="CO" >
-    <meta name="geo.region" content="CO-CUN" >
-    <meta name="geo.placename" content="Bogotá" >
-    <meta name="geo.position" content="4.6798402,-74.0854843" >
-    <meta name="ICBM" content="4.6798402,-74.0854843" >
-    <meta name="theme-color" content="#42434d" >
+    <meta name="language" content="es_EC">
+    <meta name="country" content="EC">
+    <meta name="geo.region" content="EC-P">
+    <meta name="geo.placename" content="Quito">
+    <meta name="geo.position" content="-0.1807,-78.4678">
+    <meta name="ICBM" content="-0.1807,-78.4678">
+    <meta name="theme-color" content="#26436f" >
     <meta name="generator" content="Jekyll 4.2.0" >
     <meta name="author" content="{% if page.autor %}{{ page.autor}}{% else %}{{site.name}}{% endif %}" >
     <meta name="copyright" content="{% if page.copyright %}{{ page.copyright}}{% else %}{{site.name}}{% endif %}" >
     <meta name="owner" content="{{site.name}}" >
-    <meta property="og:locale" content="es_CO" >
+    <meta property="og:locale" content="es_EC">
+    <meta property="og:site_name" content="{{ site.name }} Ecuador">
     <meta property="og:type" content="article" >
     <meta property="og:title" content="{%if page.title %}{{ page.title}}{% else %}{{ page.h1}}{% endif %}" >
     <meta property="og:url" content="{{ page.url}}" >
@@ -35,8 +37,12 @@
     <meta property="og:image:height" content="340" >
     <meta property="og:image:alt" content="{{page.alt}}" >
     <meta property="og:image:type" content="image/jpg" >
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@tintoconjuli">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="{{ site.url }}{{ page.jpg }}">
     {% endif %}
-    <meta property="og:site_name" content="{{site.name}}" >
     <meta property="article:publisher" content="{{site.facebook}}" >
     <meta property="article:author" content="{{site.facebook}}" >
     {% if page.category %}
