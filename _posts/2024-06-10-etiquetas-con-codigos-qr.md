@@ -73,13 +73,13 @@ Las etiquetas con código QR son ideales empresas que buscan una forma eficiente
 
 ### Stickers con códigos QR para transporte y logística
 
-  **Gestión de flotas**: Las etiquetas QR en vehículos ayudan a registrar el mantenimiento, seguimiento de rutas y monitoreo del uso.
+  **Gestión de flotas**: Las etiquetas QR en vehículos ayudan a [registrar el mantenimiento, seguimiento de rutas y monitoreo del uso]({{'productos/etiquetas-seguridad-vehicular' | relative_url }}){:target="_blank"}.
 
   **Rastreo de paquetes**: Clientes pueden escanear códigos QR en paquetes para obtener información de seguimiento en tiempo real y detalles de entrega.
 
 ### Etiquetas QR para la industria de licores
 
-  **Detalles del producto**: Los códigos QR son una herramienta valiosa para las empresas de licores, ya que mejoran la experiencia del cliente al proporcionar información detallada sobre los productos, como el origen y las notas de cata. Además, facilitan campañas interactivas que incluyen recetas y promociones exclusivas.
+  **Detalles del producto**: [Los códigos QR son una herramienta valiosa para las empresas de licores]({{'hologramas-para-licores' | relative_url }}){:target="_blank"}, ya que mejoran la experiencia del cliente al proporcionar información detallada sobre los productos, como el origen y las notas de cata. Además, facilitan campañas interactivas que incluyen recetas y promociones exclusivas.
 
   **Verificación de autenticidad**: El uso de códigos QR en licores ayuda a verificar la autenticidad de las botellas, combatiendo la falsificación, y optimizan la logística y la gestión de inventarios mediante un seguimiento eficiente a lo largo de la cadena de suministro.
 
@@ -87,7 +87,9 @@ Las etiquetas con código QR son ideales empresas que buscan una forma eficiente
 
 En el ámbito educativo, el código QR se ha convertido en una herramienta valiosa para enriquecer la experiencia de aprendizaje. Los códigos QR se utilizan para proporcionar información adicional a los estudiantes, como enlaces a recursos en línea, ejercicios interactivos o vídeos educativos.
 
-Por ejemplo, un profesor puede utilizar un código QR en un libro de texto para llevar a los estudiantes a una página web donde encontrarán material complementario relacionado con lo que están estudiando. Esto permite a los estudiantes acceder a contenido adicional de manera rápida y sencilla, ampliando su comprensión del tema.
+Por ejemplo, un profesor puede utilizar un código QR en un libro de texto para llevar a los estudiantes a una página web donde encontrarán material complementario relacionado con lo que están estudiando.
+
+Los códigos QR permiteN a los estudiantes acceder a contenido adicional de manera rápida y sencilla, ampliando su comprensión del tema.
 
 **Algunos beneficios de utilizar códigos QR en educación son:**
 
@@ -99,7 +101,9 @@ Por ejemplo, un profesor puede utilizar un código QR en un libro de texto para 
 
 Los códigos QR también tienen un impacto significativo en la industria del turismo y los viajes. Los destinos turísticos pueden utilizar códigos QR en vallas publicitarias, folletos o mapas para proporcionar información detallada sobre atracciones, museos, restaurantes y más.
 
-Al escanear un código QR en un folleto de un destino turístico, los visitantes pueden acceder a mapas interactivos, descripciones de puntos de interés y horarios de apertura. Esto permite a los turistas explorar y planificar su itinerario de manera eficiente y personalizada.
+Al escanear un código QR en un folleto de un destino turístico, los visitantes pueden acceder a mapas interactivos, descripciones de puntos de interés y horarios de apertura.
+
+Con el uso de códigos QR los turistas pueden explorar y planificar su itinerario de manera eficiente y personalizada.
 
 **Algunas ventajas de utilizar códigos QR en el turismo y los viajes son:**
 
@@ -148,14 +152,16 @@ A continuación, te mostramos los pasos generales para crear un código QR utili
 
 La lectura de códigos QR es sencilla y solo requiere de un teléfono inteligente equipado con una cámara y un software de lectura de códigos QR. La mayoría de los teléfonos inteligentes modernos vienen con esta función incorporada o se puede descargar una aplicación específica de lectura de códigos QR desde las tiendas de aplicaciones.
 
-**Aquí tienes algunas recomendaciones para una lectura exitosa de códigos QR:**
+[Compra un lector de códigos]({{'productos/lectores-codigos-de-barras' | relative_url}} "Lectores códigos"){:target="_blank" class="boton boton_1"}
+
+#### Aquí tienes algunas recomendaciones para una lectura exitosa de códigos QR
 
 - Asegúrate de tener suficiente luz para que la cámara pueda enfocar correctamente el código.
 - Mantén tu mano estable para evitar movimientos borrosos al escanear el código.
 - Asegúrate de tener una conexión a Internet estable para acceder a la información que se encuentra detrás del código QR.
 - Si estás escaneando un código QR impreso, asegúrate de que esté en un tamaño legible y que no esté dañado.
 
-**Algunas aplicaciones y software populares para leer códigos QR son:**
+#### Algunas aplicaciones y software populares para leer códigos QR
 
 - Google Lens
 - Zapya
@@ -212,4 +218,4 @@ Si bien estas tecnologías ofrecen diferentes ventajas y aplicaciones, el códig
   >
   > Empieza a integrarlos en tus productos, estrategias de marketing y operaciones comerciales para aumentar la eficiencia, mejorar la experiencia del cliente y llevar tu negocio al siguiente nivel.
   >
-  > [Obtén tus stickers holográficos]({{site.whatsapp}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1"}
+  > [Obtén tus stickers holográficos]({{site.whatsapp}} "Etiquetas holográficas"){:target="_blank" class="boton boton_1" id="lead_whatsapp"}

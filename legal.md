@@ -9,7 +9,7 @@ noindex: true
 
 ## 1. DISPOSICIONES GENERALES
 
-HOLOGRAPHIC S.A.S., identificada con NIT No 900.430.518-2, domiciliada en la ciudad de Bogotá, en la Carrera. No 114D No. 145 – 45, oficina 201, en cumplimiento de la Ley 1581 de 2012 y de los Decretos 1377 de 2013 y 886 de 2014, adopta las políticas de tratamiento de datos personales de obligatoria aplicación para todos los datos personales recolectados, procesados, almacenados, usados, actualizados y suprimidos por la empresa.
+HOLOGRAPHIC S.A.S., identificada con RUC No 1793212689001, domiciliada en Colon y 9 de octubre, Edificio Plaza Colón 2, local 3 PB, Quito 170102, Ecuador, en cumplimiento de la Ley 1581 de 2012 y de los Decretos 1377 de 2013 y 886 de 2014, adopta las políticas de tratamiento de datos personales de obligatoria aplicación para todos los datos personales recolectados, procesados, almacenados, usados, actualizados y suprimidos por la empresa.
 
 Estas políticas son de obligatorio y estricto cumplimiento por parte de todos los empleados que trabajen en HOLOGRAPHIC S.A.S.. Todos los empleados, contratistas, comerciales deben observar y respetar estas políticas en el cumplimiento de sus labores.
 

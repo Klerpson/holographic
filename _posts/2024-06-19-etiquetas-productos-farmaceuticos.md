@@ -58,7 +58,7 @@ Algunos ejemplos de los códigos para medicamentos disponibles son: código de b
 
 Estas etiquetas contienen un número de serie único que se puede rastrear para verificar la autenticidad del producto.
 
-[Conoce las etiquetas personalizadas]({{ 'servicios/etiquetas-personalizadas' | relative_url }} "Stickers holográficos personalizados"){:class="boton boton_1" target="_blank"}
+[Conoce las etiquetas personalizadas]({{ 'productos/etiquetas-personalizadas' | relative_url }} "Stickers holográficos personalizados"){:class="boton boton_1" target="_blank"}
 
 ## Importancia de los hologramas de medicamentos en la industria
 
@@ -68,7 +68,7 @@ Nuestras etiquetas y códigos holográficos son de vital importancia para nuestr
 2. **Verificación de autenticidad:** Los códigos de barras para medicamentos permiten verificar fácilmente la autenticidad de un producto. Los consumidores pueden escanear el código holográfico con su teléfono inteligente o utilizar aplicaciones específicas para asegurarse de que están adquiriendo un medicamento genuino.
 3. **Imagen de marca:** El etiquetado de fármacos ayuda a proteger la imagen y reputación de la marca farmacéutica al demostrar su compromiso con la seguridad y calidad de sus productos.
 
-[Conoce las etiquetas premium]({{ 'servicios/etiquetas-premium' | relative_url }} "Stickers holográficos premium"){:class="boton boton_1" target="_blank"}
+[Conoce las etiquetas premium]({{ 'productos/etiquetas-premium' | relative_url }} "Stickers holográficos premium"){:class="boton boton_1" target="_blank"}
 
 ## Beneficios de utilizar etiquetas holográficas en tus productos farmacéuticos
 

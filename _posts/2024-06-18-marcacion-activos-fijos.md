@@ -37,7 +37,7 @@ Son ideales cuando se busca una alternativa distinta a las placas para marcar o 
 
 Además de su atractivo visual, estos hologramas **ofrecen la posibilidad de incluir códigos de barras** para una mayor eficacia en el seguimiento de activos. Nuestros etiquetas con códigos de marcación son ampliamente utilizados por nuestros clientes que buscan **marcar sus activos de una manera que combina seguridad, funcionalidad y diseño**.
 
-[Conoce las etiquetas personalizadas]({{ 'servicios/etiquetas-personalizadas' | relative_url }} "Stickers holográficos personalizados"){:class="boton boton_1" target="_blank"}
+[Conoce las etiquetas personalizadas]({{ 'productos/etiquetas-personalizadas' | relative_url }} "Stickers holográficos personalizados"){:class="boton boton_1" target="_blank"}
 
 >Las diferentes tecnologías que tenemos en Holographic nos permiten incluir muchos elementos de seguridad dentro del holograma de cada sticker, haciéndolos imposibles de copiar o reemplazar.
 {:id="etiquetas-void"}

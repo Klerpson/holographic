@@ -23,7 +23,7 @@ La falsificación es una amenaza constante en muchos sectores, y sabemos que pro
 - **Hologramas Antifalsificación**: [Hologramas personalizados]({{'productos/stickers-holograficos/personalizados' | relative_url}} "Hologramas personalizados"){:target="_blank"} que no solo aseguran la autenticidad, sino que también refuerzan la imagen de tu marca.
 - **Etiquetas de Seguridad VOID**: Etiquetas que revelan mensajes de seguridad cuando se intentan despegar, proporcionando una clara [evidencia de manipulación con la marca VOID]({{'productos/etiquetas-void' | relative_url}} "Etiquetas adhesivas VOID"){:target="_blank"}.
 - **Cintas de Seguridad**: [Cintas adhesivas con propiedades de seguridad avanzadas]({{'productos/cintas-de-seguridad' | relative_url}} "Cintas de seguridad"){:target="_blank"}, ideales para sellar envíos y productos de alto valor.
-- **Soluciones de Trazabilidad**: Sistemas que permiten [rastrear el recorrido de tus productos]({{'industrias/marcacion-y-trazabilidad-de-activos-fijos' | relative_url}} "Marcación interna"){:target="_blank"} a través de la cadena de suministro, garantizando transparencia y control total.
+- **Soluciones de Trazabilidad**: Sistemas que permiten [rastrear el recorrido de tus productos]({{'blog/marcacion-y-trazabilidad-de-activos-fijos' | relative_url}} "Marcación interna"){:target="_blank"} a través de la cadena de suministro, garantizando transparencia y control total.
 
 #### Tabla comparativa de nuestras soluciones
 
@@ -38,7 +38,7 @@ La falsificación es una amenaza constante en muchos sectores, y sabemos que pro
 
 Atendemos a empresas en [industrias altamente susceptibles a la falsificación]({{'industrias' | relative_url}} "Industrias clientes de Holographic"){:target="_blank"}, donde la seguridad y la integridad del producto son fundamentales. Nuestros clientes incluyen:
 
-- **Licoreras**: Protegemos marcas premium contra la falsificación y el fraude, [asegurando que cada botella en el mercado sea genuina]({{'productos/stickers-holograficos/licores' | relative_url}} "Estampillas licores"){:target="_blank"}.
+- **Licoreras**: Protegemos marcas premium contra la falsificación y el fraude, [asegurando que cada botella en el mercado sea genuina]({{'productos/hologramas-para-licores' | relative_url}} "Estampillas licores"){:target="_blank"}.
 - **Productos Farmacéuticos**: Garantizamos que los medicamentos lleguen al consumidor final sin alteraciones, protegiendo la salud pública.
 - **Cosméticos**: Salvaguardamos la autenticidad de productos de belleza, evitando riesgos asociados con imitaciones.
 - **Repuestos Automotores**: Aseguramos que cada pieza y repuesto en el mercado es original, manteniendo la seguridad de los vehículos.
