@@ -37,6 +37,8 @@ En la era de la tecnología digital, **el código QR (Quick Response) ha ganado 
 
 Las etiquetas con código QR son ideales empresas que buscan una forma eficiente y versátil de transmitir información con altos estándares de seguridad y control.
 
+Son la última tendencia en la [trazabilidad interna]({% post_url 2024-06-17-trazabilidad-interna %} "Trazabilidad interna con códigos QR"){:target="_blank"} y en [el control de activos fijos]({% post_url 2024-06-18-marcacion-activos-fijos %} "Marcación de activos fijos con códigos QR"){:target="_blank"}.
+
 ### Utiliza los códigos QR de Holographic y dale un toque de calidad a tu empresa
 
 **Nuestros stickers QR te permiten codificar información de manera segura**, desde textos simples hasta enlaces web, números de teléfono, direcciones de correo electrónico y mucho más.
@@ -79,7 +81,7 @@ Las etiquetas con código QR son ideales empresas que buscan una forma eficiente
 
 ### Etiquetas QR para la industria de licores
 
-  **Detalles del producto**: [Los códigos QR son una herramienta valiosa para las empresas de licores]({{'hologramas-para-licores' | relative_url }}){:target="_blank"}, ya que mejoran la experiencia del cliente al proporcionar información detallada sobre los productos, como el origen y las notas de cata. Además, facilitan campañas interactivas que incluyen recetas y promociones exclusivas.
+  **Detalles del producto**: [Los códigos QR son una herramienta valiosa para las empresas de licores]({{'productos/hologramas-para-licores' | relative_url }}){:target="_blank"}, ya que mejoran la experiencia del cliente al proporcionar información detallada sobre los productos, como el origen y las notas de cata. Además, facilitan campañas interactivas que incluyen recetas y promociones exclusivas.
 
   **Verificación de autenticidad**: El uso de códigos QR en licores ayuda a verificar la autenticidad de las botellas, combatiendo la falsificación, y optimizan la logística y la gestión de inventarios mediante un seguimiento eficiente a lo largo de la cadena de suministro.
 
