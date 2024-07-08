@@ -43,7 +43,7 @@ Además de delimitar áreas, estas **cintas de seguridad también sirven como me
 
 ### Códigos de barras para cédulas y documentos
 
-[Los códigos de barras]({{'productos/codigos-de-barras' | relative_url }} "Cintas de seguridad"){:target="_blank"} en las identificaciones permiten a las autoridades **escanear y confirmar instantáneamente la información** del titular.
+[Los códigos de barras]({{'blog/codigos-de-barras' | relative_url }} "Códigos de barras"){:target="_blank"} en las identificaciones permiten a las autoridades **escanear y confirmar instantáneamente la información** del titular.
 
 Un ejemplo es el **código de barras en la cédula**, una tecnología que facilita la verificación rápida y eficiente de la identidad.
 
@@ -76,7 +76,7 @@ La tecnología de los hologramas es fundamental para mantener la integridad y la
 ### 3. Eficiencia administrativa con la trazabilidad
 
 - **Reducción de Errores**: La implementación de códigos de seguridad puede reducir errores administrativos al facilitar la verificación y autenticación automática.
-- **Automatización**: Permiten la automatización de procesos, mejorando la eficiencia y reduciendo la carga de trabajo manual.
+- **Automatización**: Permiten la [automatización de procesos de trazabilidad]({% post_url 2024-06-17-trazabilidad-interna %} "Trazabilidad interna con códigos QR"){:target="_blank"}, mejorando la eficiencia y reduciendo la carga de trabajo manual.
 
 ### 4. Transparencia y confianza
 
@@ -86,7 +86,7 @@ La tecnología de los hologramas es fundamental para mantener la integridad y la
 ### 5. Gestión y control de bienes
 
 - **Prevención de Robo y Pérdida**: Ayudan a prevenir el robo y la pérdida de bienes gubernamentales mediante sistemas de rastreo y control.
-- **Inventario Preciso**: Facilitan un control más preciso del inventario y la gestión de activos del gobierno.
+- **Inventario Preciso**: Facilitan un [control más preciso del inventario y la gestión de activos del gobierno]({% post_url 2024-06-18-marcacion-activos-fijos %} "Marcación de activos fijos"){:target="_blank"}.
 
 ### 6. Cumplimiento legal y regulatorio
 
@@ -103,7 +103,7 @@ La tecnología de los hologramas es fundamental para mantener la integridad y la
 - **Recopilación de Evidencias**: Proveen métodos para la recopilación y preservación de evidencias en investigaciones criminales y auditorías.
 - **Trazabilidad**: Ayudan a mantener un registro detallado de la cadena de custodia de documentos y bienes.
 
-Las etiquetas, códigos y stickers holográficas son indispensables para las autoridades y el gobierno. Mejoran la seguridad y la eficiencia, y proporcionan confianza en la autenticidad de los documentos y las áreas protegidas.
+[Las etiquetas, códigos y stickers holográficas](/) son indispensables para las autoridades y el gobierno. Mejoran la seguridad y la eficiencia, y proporcionan confianza en la autenticidad de los documentos y las áreas protegidas.
 
 >Aquí en Holographic estamos para ayudarte a fortalecer la seguridad y aumentar la autenticidad de los documentos y procesos de las autoridades. ¡Contáctanos!
 >

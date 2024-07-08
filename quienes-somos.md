@@ -20,19 +20,19 @@ A lo largo de más de una década, hemos crecido y evolucionado, alcanzando impo
 
 La falsificación es una amenaza constante en muchos sectores, y sabemos que proteger tus productos es crucial para mantener la confianza de tus clientes. Por esta razón [Holographic ofrece una variedad de soluciones](/) diseñadas para proporcionar esa seguridad:
 
-- **Hologramas Antifalsificación**: [Hologramas personalizados]({{'productos/stickers-holograficos/personalizados' | relative_url}} "Hologramas personalizados"){:target="_blank"} que no solo aseguran la autenticidad, sino que también refuerzan la imagen de tu marca.
+- **Hologramas Antifalsificación**: [Hologramas personalizados]({{'productos/etiquetas-personalizadas' | relative_url}} "Hologramas personalizados"){:target="_blank"} que no solo aseguran la autenticidad, sino que también refuerzan la imagen de tu marca.
 - **Etiquetas de Seguridad VOID**: Etiquetas que revelan mensajes de seguridad cuando se intentan despegar, proporcionando una clara [evidencia de manipulación con la marca VOID]({{'productos/etiquetas-void' | relative_url}} "Etiquetas adhesivas VOID"){:target="_blank"}.
 - **Cintas de Seguridad**: [Cintas adhesivas con propiedades de seguridad avanzadas]({{'productos/cintas-de-seguridad' | relative_url}} "Cintas de seguridad"){:target="_blank"}, ideales para sellar envíos y productos de alto valor.
-- **Soluciones de Trazabilidad**: Sistemas que permiten [rastrear el recorrido de tus productos]({{'blog/marcacion-y-trazabilidad-de-activos-fijos' | relative_url}} "Marcación interna"){:target="_blank"} a través de la cadena de suministro, garantizando transparencia y control total.
+- **Soluciones de Trazabilidad**: Sistemas que permiten [rastrear el recorrido de tus productos]({% post_url 2024-06-17-trazabilidad-interna %} "Marcación interna"){:target="_blank"} a través de la cadena de suministro, garantizando transparencia y control total.
 
 #### Tabla comparativa de nuestras soluciones
 
-| ℹ️ Característica                  | 🚫 Hologramas Antifalsificación | 🖨️ Etiquetas de Seguridad VOID | 📦 Cintas de Seguridad | 📋 Soluciones de Trazabilidad |
-|-------------------------------|------------------------------|-----------------------------|---------------------|----------------------------|
-| ℹ️ Protección Contra Falsificación | 🚫 Alta                          | 🖨️ Media                        | 📦 Alta                | 📋 Media                      |
-| ℹ️ Evidencia de Manipulación       | 🚫 No                            | 🖨️ Sí                           | 📦 Sí                  | 📋 No                         |
-| ℹ️ Personalización                 | 🚫 Alta                          | 🖨️ Media                        | 📦 Media               | 📋 Alta                       |
-| ℹ️ Aplicación                      | 🚫 Productos físicos             | 🖨️ Productos y embalajes        | 📦 Envíos y productos  | 📋 Toda la cadena de suministro |
+| ℹ️ Característica | 🚫 Hologramas Antifalsificación | 🖨️ Etiquetas de Seguridad VOID | 📦 Cintas de Seguridad | 📋 Soluciones de Trazabilidad |
+|----|-----|-----|-------|------|
+| ℹ️ Protección Contra Falsificación | 🚫 Alta | 🖨️ Media | 📦 Alta | 📋 Media |
+| ℹ️ Evidencia de Manipulación | 🚫 No | 🖨️ Sí | 📦 Sí | 📋 No |
+| ℹ️ Personalización | 🚫 Alta | 🖨️ Media | 📦 Media | 📋 Alta |
+| ℹ️ Aplicación | 🚫 Productos físicos | 🖨️ Productos y embalajes | 📦 Envíos y productos | 📋 Toda la cadena de suministro |
 
 ### Nuestros clientes
 
