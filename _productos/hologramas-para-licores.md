@@ -41,7 +41,7 @@ Algunas son **simplemente adhesivas y se aplican directamente a la botella**, mi
 
 La forma en que las estampillas de seguridad funcionan es sencilla pero eficaz. Cuando se aplica la estampilla a la botella, se crea una conexión irreversible entre la estampilla y la superficie.
 
-***Si alguien intenta quitar la estampilla, se romperá o dejará rastros de manipulación***. Esto permite identificar fácilmente si se ha intentado abrir o alterar la botella de licor.
+***Si alguien intenta quitar la estampilla, [se romperá o dejará rastros de manipulación]({{'productos/etiquetas-void' | relative_url}} "Etiquetas VOID"){:target="_blank"}***. Esto permite identificar fácilmente si se ha intentado abrir o alterar la botella de licor.
 
 ### Protege tus productos con estampillas de seguridad confiables
 
@@ -51,16 +51,16 @@ Al elegir estampillas de seguridad para licor, puedes utilizar nuestra etiquetas
 
 - **Materiales de calidad:**  Las estampillas están fabricadas con materiales de alta calidad resistentes a la manipulación y no se deterioren fácilmente.
 - **Características adicionales:**  Holographic fabrica estampillas de seguridad que incluyen características adicionales, como hologramas y Evident Tamper. Estas características hacen que las estampillas sean aún más seguras y difíciles de falsificar.
-- **Facilidad de verificación:**  [Las estampillas de licores de Holographic]({{'productos/stickers-holograficos/licores' | relative_url }} "Etiquetas de seguridad") son fáciles de verificar, ya sea visualmente o mediante herramientas especiales. De esta manera, los fabricantes, distribuidores y consumidores hacen su verificación de autenticidad de los productos.
+- **Facilidad de verificación:**  [Las estampillas de licores de Holographic]({{'productos/estampillas-para-licores' | relative_url }} "Etiquetas de licores") son fáciles de verificar, ya sea visualmente o mediante herramientas especiales. De esta manera, los fabricantes, distribuidores y consumidores hacen su verificación de autenticidad de los productos.
 
 Al utilizar estampillas de seguridad confiables, los fabricantes y distribuidores de licores pueden proteger de manera efectiva sus productos y brindar una mayor confianza a los consumidores.
 {:id="conseguir-estampillas"}
 
-[Conoce nuestros stickers antifalsificación]({{'productos/stickers-holograficos/licores' | relative_url }} "Etiquetas de seguridad"){:class="boton boton_1"}
+[Conoce nuestros stickers antifalsificación]({{'productos/etiquetas-premium' | relative_url }} "Etiquetas de seguridad"){:class="boton boton_1"}
 
 ## Estampillas para licor: ¿Dónde conseguirlas?
 
-Hay varias opciones disponibles para obtener estampillas de seguridad para licor. **En Holographic queremos recomendarnos contigo**, por supuesto. Sobre todo si tienes en cuenta las siguientes razones:
+Hay varias opciones disponibles para obtener estampillas de seguridad para licor. [En Holographic queremos recomendarnos contigo](/), por supuesto. Sobre todo si tienes en cuenta las siguientes razones:
 
 - **Proveedores especializados:**  Existen proveedores especializados que se dedican exclusivamente a la fabricación y venta de estampillas de seguridad para licor. Estos proveedores cuentan con experiencia y conocimientos en este campo y pueden ofrecer una amplia gama de opciones de estampillas de seguridad.
 - **Empresas de impresión:**  Algunas empresas de impresión también pueden ofrecer estampillas de seguridad personalizadas para licores.
@@ -81,11 +81,11 @@ Si estás planeando comprar estampillas de seguridad para licor, es importante t
 Tener en cuenta estos factores te ayudará a tomar una decisión informada al comprar estampillas de seguridad para licor.
 {:id="estampillas-personalizadas"}
 
-[Conoce nuestros stickers antifalsificación]({{'productos/stickers-holograficos/licores' | relative_url }} "Etiquetas de seguridad"){:class="boton boton_1"}
+[Conoce nuestros stickers antifalsificación]({{site.whatsapp}} "Pide Etiquetas de seguridad"){:class="boton boton_1" rel="nofollow noopener noreferrer" target="_blank" id="lead_whatsapp"}
 
 ## Estampillas de seguridad personalizadas para tu marca
 
-Una opción interesante a considerar es utilizar [estampillas de seguridad personalizadas para tu marca de licor]({{'productos/stickers-holograficos/personalizados' | relative_url}} "Stickers personalizados").
+Una opción interesante a considerar es utilizar [estampillas de seguridad personalizadas para tu marca de licor]({{'productos/etiquetas-personalizadas' | relative_url}} "Stickers personalizados").
 
 Estas estampillas pueden incluir elementos personalizados, como el logotipo de la marca o un diseño único. Al utilizar estampillas de seguridad personalizadas, puedes fortalecer la imagen de tu marca y generar confianza en tus clientes.
 
@@ -113,10 +113,10 @@ Las estampillas de licor son vitales para el funcionamiento de las marcas comerc
 
 ### Contáctanos y consigue tus estampillas para licores
 
-Desde Holographic ofrecemos soluciones de seguridad económicas y fáciles de implementar. Por lo que **podrás proteger tus licores a un costo muy bajo**. Y también, las soluciones más avanzadas en tecnología, como los [stickers holográficos de seguridad platinum]({{'productos/stickers-holograficos/platinum' | relative_url }} "Stickers de seguridad)
+Desde Holographic ofrecemos soluciones de seguridad económicas y fáciles de implementar. Por lo que **podrás proteger tus licores a un costo muy bajo**. Y también, las soluciones más avanzadas en tecnología, como los [stickers holográficos de seguridad platinum]({{'productos/etiquetas-platinum' | relative_url }} "Stickers de seguridad)
 
 Cómo puedes observar, la adulteración de botellas es una amenaza que afecta a la industria del licor.
 
 Estamos siempre disponibles para **implementar las medidas de seguridad que sean efectivas para mitigar las diversas irregularidades** que están presentando las marcas que comercializan licores en el país.
 
-[Conoce nuestros stickers antifalsificación]({{'productos/stickers-holograficos/licores' | relative_url }} "Etiquetas de seguridad"){:class="boton boton_1"}
+[Conoce nuestros stickers antifalsificación]({{site.whatsapp}} "Etiquetas de seguridad"){:class="boton boton_1" target="_blank" id="lead_whatsapp" rel="nofollow noopener noreferrer"}

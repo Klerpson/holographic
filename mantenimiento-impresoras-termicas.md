@@ -21,6 +21,7 @@ puntos-dolor:
   - Evita daños muy costosos: "img/impresora-termica.webp"
   - Repara tu impresora: "img/reparacion-impresoras-termicas.webp"
   - Recupera esa gran impresora: "img/impresora-termica-reparada.webp"
+published: no
 ---
 **El mantenimiento de las impresoras térmicas va a garantizar un funcionamiento óptimo y prolongar su vida útil**. Estos [dispositivos son ampliamente utilizados en diversas industrias]({{'industrias' | relative_url}}), como la logística, el comercio minorista y la atención médica, para imprimir etiquetas de alta calidad de forma rápida y eficiente.
 
