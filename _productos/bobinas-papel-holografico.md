@@ -21,7 +21,7 @@ fotos:
   - Foto de bobina de papel holográfico: img/bobina-papel-holografico.webp
   - Foto de hologramas en bobina: img/rollo-holografico-adhesivo.webp
   - Bobina de papel con hologramas: img/hologramas-por-rollo.webp
-  - Rollo de papel holografico: img/rollo-cinta-holografica.webp
+  - Rollo papel holografico: img/rollo-cinta-holografica.webp
   - Bobina papel de hologramas: img/bobina-o-rollo-de-stickers.webp
   - Imagen de una bobina de hologramas: img/rollo-papel-holografico.webp
   - Hoja de holograma en rollo: img/hologramas-en-rollo.webp
@@ -42,7 +42,7 @@ La bobina de papel se transforma en una herramienta avanzada cuando se integra c
 
 ### Composición de la bobina de papel holográfico
 
-- #### El papel holograma que compone estos rollos  
+- #### El papel holograma que compone los rollos de papel holográfico  
   Están compuestos de un film especial que integra imágenes ópticas de alta seguridad, visibles bajo diferentes ángulos de luz y sin personalización.
 - #### Adhesivos de papel firmes al adherirse  
   La bobina de papel térmico es resistente a condiciones extremas. El papel holograma transparente funciona muy bien en condiciones más discretas. Y se pueden estampar hologramas sobre estos.
@@ -55,7 +55,7 @@ La bobina de papel se transforma en una herramienta avanzada cuando se integra c
 {% include slider.html %}
 {:id="caracteristicas"}
 
-## Características y ventajas del rollo de papel holográfico de Holographic S.A.S.
+## Características y ventajas del rollo papel holográfico de Holographic S.A.S.
 
 |Composición | Adhesivo | Temperatura | Comportamiento |
 |---|---|---|---|
