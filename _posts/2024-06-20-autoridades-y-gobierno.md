@@ -2,7 +2,7 @@
 layout: post
 title: "Seguridad en Documentos: De Hologramas a Etiquetas QR"
 description: "De hologramas a códigos de barras y QR: una guía completa sobre seguridad en documentos. Aprende a identificar y utilizar estas tecnologías."
-h1: "Hologramas en etiquetas gubernamentales: Tecnología Antifraude"
+h1: "Hologramas en documentos oficiales: Tecnología Antifraude"
 intro: "Uso de código de barras, QR y Hologramas. Tecnología para agilizar procesos y aumentar la seguridad de las autoridades."
 autor: Diana - Holographic
 category: "Antifalsificación"

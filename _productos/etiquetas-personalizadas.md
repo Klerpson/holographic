@@ -121,7 +121,7 @@ Sobre nuestros hologramas personalizados, podemos **incluir tu información, seg
 
 Si crees que tu mensaje se transmite mejor [utilizando colores](#colores), podemos evaluar con nuestro equipo profesional en diseño esta posibilidad.
 
-## Impresión de los etiquetas personalizadas transparentes
+## Impresión de las etiquetas personalizadas transparentes
 
 * *"¿Cómo protejo mi producto si necesito que mi caja esté completamente visible?"*
 * *"¿Hay alguna solución que no tape la información de la caja?"*
