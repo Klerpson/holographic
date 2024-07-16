@@ -1,5 +1,5 @@
 ---
-layout: page-basic
+layout: pagina
 title: Política de Privacidad de datos personales | HOLOGRAPHIC.EC
 description: Política de Privacidad de datos personales de la página HOLOGRAPHIC.EC
 h1: Política de Privacidad de datos personales de HOLOGRAPHIC.EC
