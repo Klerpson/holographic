@@ -1,7 +1,7 @@
 ---
 layout: pagina
 title: "Somos Holographic y estamos para asegurar tu mercancía y activos"
-h1: Somos Holographic sirviéndote desde Quito Ecuador
+h1: "Somos Holographic Ecuador: Evitamos Falsificaciones y Pérdidas de Dinero para tu Empresa"
 intro: Tu solución de etiquetas de seguridad y marcación en Ecuador
 description: Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
 hero: img/quienes-somos.webp
@@ -36,10 +36,10 @@ La falsificación es una amenaza constante en muchos sectores, y sabemos que pro
 
 ### Nuestros clientes
 
-Atendemos a empresas en [industrias altamente susceptibles a la falsificación]({{'industrias' | relative_url}} "Industrias clientes de Holographic"){:target="_blank"}, donde la seguridad y la integridad del producto son fundamentales. Nuestros clientes incluyen:
+Atendemos a empresas en [industrias altamente susceptibles a la falsificación]({{'blog' | relative_url}} "Industrias clientes de Holographic"){:target="_blank"}, donde la seguridad y la integridad del producto son fundamentales. Nuestros clientes incluyen:
 
-- **Licoreras**: Protegemos marcas premium contra la falsificación y el fraude, [asegurando que cada botella en el mercado sea genuina]({{'productos/hologramas-para-licores' | relative_url}} "Estampillas licores"){:target="_blank"}.
-- **Productos Farmacéuticos**: Garantizamos que los medicamentos lleguen al consumidor final sin alteraciones, protegiendo la salud pública.
+- **Licoreras**: Protegemos marcas premium contra la falsificación y el fraude, [asegurando que cada botella en el mercado sea genuina]({{'productos/hologramas-para-licores' | relative_url}} "Hologramas licores"){:target="_blank"}.
+- **Productos Farmacéuticos**: Garantizamos que los [medicamentos lleguen al consumidor final sin alteraciones]({% post_url 2024-06-20-etiquetas-para-alimentos %} "Etiquetas para la industria alimenticia"){:target="_blank"}, protegiendo la salud pública.
 - **Cosméticos**: Salvaguardamos la autenticidad de productos de belleza, evitando riesgos asociados con imitaciones.
 - **Repuestos Automotores**: Aseguramos que cada pieza y repuesto en el mercado es original, manteniendo la seguridad de los vehículos.
 
@@ -53,7 +53,7 @@ Nos esforzamos por entender las necesidades únicas de cada cliente y ofrecer so
 
 Nuestra filosofía se basa en la innovación constante.
 
-Invertimos continuamente en investigación y desarrollo para estar a la vanguardia de las tecnologías de seguridad. Este enfoque nos permite ofrecer soluciones que no solo cumplen con los estándares actuales, sino que también anticipan y responden a futuros desafíos en seguridad y trazabilidad.
+Invertimos continuamente en investigación y desarrollo para estar a la vanguardia de las tecnologías de seguridad. Este enfoque nos permite ofrecer soluciones que no solo cumplen con los estándares actuales, sino que también anticipan y responden a futuros desafíos en seguridad y [trazabilidad]({% post_url 2024-06-17-trazabilidad-interna %} "Trazabilidad de mercancía"){:target="_blank"}.
 
 ### Testimonios de quienes cuidan sus activos con Holographic
 
