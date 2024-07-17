@@ -1191,7 +1191,7 @@ details p {
 
   .header_bloque {
     grid-template-areas: 
-    "div img";
+    "div img img";
   }
 
   .header_bloque.bloque_big {
