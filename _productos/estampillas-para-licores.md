@@ -13,8 +13,8 @@ enlaces:
   - Estampillas inviolables e imposibles de falsificar: '#etiquetas-seguras-e-imposibles-de-falsificar'
 puntos-dolor:
   - Etiquetas personalizadas: "img/holograma-exclusivo.webp"
-  - Estampillas con : "img/estampilla-licores.webp"
-  - Protege y destaca a la vez: "img/holograma-personalizado.webp"
+  - Estampillas que cumplen la norma: "img/estampilla-licores.webp"
+  - Certifica y destaca a la vez: "img/rollo-estampillas-licores.webp"
   - Evita la falsificación: "img/nosotros/foto-de-stiker-holografico-2.webp"
   - Lleva un control inviolable: "img/pegatina-holografica.webp"
 videos:
