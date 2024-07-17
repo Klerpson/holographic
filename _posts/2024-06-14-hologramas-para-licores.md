@@ -23,7 +23,7 @@ El propósito principal es **prevenir la adulteración y falsificación de las b
 - Garantizan la satisfacción del consumidor.
 - Protegen la reputación de las marcas.
 
-A lo largo de los años, las estampillas y etiquetas de licor han evolucionado, adaptándose a las necesidades de la industria y a los avances tecnológicos.
+A lo largo de los años, [las estampillas]({{'productos/estampillas-para-licores'|relative_url}} "Estampillas licores"){:target="_blank"} y etiquetas de licor han evolucionado, adaptándose a las necesidades de la industria y a los avances tecnológicos.
 
 Actualmente, **existen diferentes tipos de estampillas y etiquetas de licores**, con diseños y características distintas según el país y la marca.
 
@@ -31,18 +31,18 @@ Actualmente, **existen diferentes tipos de estampillas y etiquetas de licores**,
 
 | **Características de las estampillas**    | **Detalles técnicos**      | **Beneficios para la industria licorera**      |
 |-------------|---------------|-------------|
-| **Impresión holográfica**                  | Imágenes y micro textos visibles o detectables tecnológicamente    | Garantiza autenticidad y dificulta la falsificación            |
-| **Fotocopias imposibles**                  | Tecnología avanzada que impide la copia exacta de la etiqueta      | Mayor protección contra imitaciones                             |
-| **Adhesivos de seguridad**                 | Dejan una huella al despegarse                                     | Evita reutilización y manipulación indebida                     |
-| **No reutilizables**                       | Materiales de un solo uso                                          | Protección continua y segura                                    |
-| **Variedad de tamaños y colores**          | Personalización según necesidades del cliente                      | Adaptabilidad a diferentes marcas y presentaciones              |
-| **Códigos QR y barras**                    | Integración con sistemas digitales de trazabilidad y autenticidad  | Facilita el seguimiento y verificación de la autenticidad       |
-| **Materiales de seguridad**                | Incluyen marcas de agua y tintas especiales                        | Protección adicional contra adulteración                        |
-| **Personalización completa**               | Impresión de logos, códigos y demás información relevante          | Refuerza la identidad de la marca y facilita el control         |
-| **Sectores de aplicación**                 | Industria del entretenimiento, bares, restaurantes, hoteles        | Versatilidad y utilidad en múltiples entornos comerciales       |
-| **Asesoría gratuita**                      | Servicio de consultoría personalizado                              | Optimización del uso y aplicación de etiquetas                  |
-| **Trazabilidad y control**                 | Integración con sistemas de gestión                                 | Mejora la eficiencia operativa y reduce pérdidas                |
-| **Aplicación web de verificación**         | Página de tti-consumo para verificar autenticidad                  | Acceso fácil y rápido a la verificación de autenticidad         |
+| **Impresión holográfica** | Imágenes y micro textos visibles o detectables tecnológicamente | Garantiza autenticidad y dificulta la falsificación |
+| **Fotocopias imposibles** | Tecnología avanzada que impide la copia exacta de la etiqueta | Mayor protección contra imitaciones |
+| **Adhesivos de seguridad** | Dejan una huella al despegarse | Evita reutilización y manipulación indebida |
+| **No reutilizables** | Materiales de un solo uso | Protección continua y segura |
+| **Variedad de tamaños y colores** | [Personalización según necesidades del cliente]({{site.baseurl}}/productos/etiquetas-personalizadas "Etiquetas con personalización"){:target="_blank"} | Adaptabilidad a diferentes marcas y presentaciones |
+| **Códigos QR y barras** | Integración con sistemas digitales de trazabilidad y autenticidad | Facilita el seguimiento y verificación de la autenticidad |
+| **Materiales de seguridad** | Incluyen marcas de agua y tintas especiales | Protección adicional contra adulteración |
+| **Personalización completa** | Impresión de logos, códigos y demás información relevante | Refuerza la identidad de la marca y facilita el control |
+| **Sectores de aplicación** | Industria del entretenimiento, bares, restaurantes, hoteles | Versatilidad y utilidad en múltiples entornos comerciales |
+| **Asesoría gratuita** | Servicio de consultoría personalizado | Optimización del uso y aplicación de etiquetas |
+| **[Trazabilidad y control]({% post_url 2024-06-17-trazabilidad-interna %} "Trazabilidad mercancía")** | Integración con sistemas de gestión | Mejora la eficiencia operativa y reduce pérdidas |
+| **Aplicación web de verificación** | Página de tti-consumo para verificar autenticidad | Acceso fácil y rápido a la verificación de autenticidad |
 
   {% include relacionados.html %}
 
