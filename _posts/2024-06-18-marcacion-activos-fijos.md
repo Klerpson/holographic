@@ -16,8 +16,8 @@ videos:
 ---
 ## Marcación de activos con Holographic
 
-- [Etiquetas para el inventario de tus activos fijos](#nuestras-etiquetas-para-inventario-de-activos-fijos)
-- [Ventajas de marcar tus activos fijos con Holographic](#aprovecha-los-beneficios-de-aplicar-las-etiquetas-de-marcación-de-activos-fijos-con-holographic)
+- [Etiquetas para el inventario de tus activos fijos](#nuestras-etiquetas-para-inventario-de-activos-fijos "Etiquetas de Activos Fijos")
+- [Ventajas de marcar tus activos fijos con Holographic](#aprovecha-los-beneficios-de-aplicar-las-etiquetas-de-marcación-de-activos-fijos-con-holographic "Marcar Activos Fijos")
 
 ## Así utilizan las empresas las etiquetas para activos fijos de Holographic
 
@@ -37,7 +37,7 @@ Son ideales cuando se busca una alternativa distinta a las placas para marcar o 
 
 Además de su atractivo visual, estos hologramas **ofrecen la posibilidad de incluir códigos de barras** para una mayor eficacia en el seguimiento de activos. Nuestros etiquetas con códigos de marcación son ampliamente utilizados por nuestros clientes que buscan **marcar sus activos de una manera que combina seguridad, funcionalidad y diseño**.
 
-[Conoce las etiquetas personalizadas]({{ 'productos/etiquetas-personalizadas' | relative_url }} "Stickers holográficos personalizados"){:class="boton boton_1" target="_blank"}
+[Conoce las etiquetas personalizadas]({{ 'productos/etiquetas-personalizadas' | relative_url }} "Stickers holográficos personalizados para activos fijos"){:class="boton boton_1" target="_blank"}
 
 >Las diferentes tecnologías que tenemos en Holographic nos permiten incluir muchos elementos de seguridad dentro del holograma de cada sticker, haciéndolos imposibles de copiar o reemplazar.
 {:id="etiquetas-void"}
@@ -50,9 +50,9 @@ Su **manipulación es fácil y cuentan con una resistencia excepcional**, lo que
 
 Están disponibles en diferentes tamaños para adaptarse a las necesidades específicas de cada activo.
 
-[Conoce las etiquetas VOID]({{ 'productos/etiquetas-void' | relative_url }} "Etiquetas VOID"){:class="boton boton_1" target="_blank"}
+[Conoce las etiquetas VOID]({{ 'productos/etiquetas-void' | relative_url }} "Etiquetas VOID para marcar activos fijos"){:class="boton boton_1" target="_blank"}
 
-### Protector de vinilo transparente para etiquetas
+### Protector de vinilo transparente para etiquetas de activos fijos
 
 Para aquellas situaciones en las que la información impresa en las etiquetas necesita una protección adicional, ofrecemos el Protector de vinilo transparente.
 
