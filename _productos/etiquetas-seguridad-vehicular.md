@@ -13,7 +13,7 @@ enlaces:
   - Utiliza los sellos de Holographic: '#holographic'
 puntos-dolor:
   - Stickers holográficos antifalsificación: "img/holograma-platinum.webp"
-  - Diseños con tecnología avanzada: "img/sticker-platinum.webp"
+  - Diseños con tecnología avanzada: "img/adhesivo-holografico-seguridad-vehicular.webp"
   - Protege y destaca tu marca al mismo tiempo: "img/servicio-platinum.webp"
   - Deja claro que tus impuestos están al día: "img/holograma-seguridad-vehicular.webp"
   - Genera confianza en los usuarios del vehículo: "img/servicio-adhesivos-premium.webp"
