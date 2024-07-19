@@ -14,7 +14,7 @@ alt: Fotografía de una etiqueta holográfica en producción
 
 - [Mira la variedad de etiquetas que puedes conseguir](#tipos-de-etiquetas-adhesivas-para-productos)
 - [Sigue estas recomendaciones al elegir etiquetas adhesivas de productos](#recomendaciones-finales-para-el-uso-de-etiquetas-adhesivas-para-productos)
-- [Variedad de etiquetas holográficas](#tecnologías-innovadoras-en-hologramas-de-seguridad)
+- [Recomendaciones para usar etiquetas holográficas adhesivas](#recomendaciones-finales-para-el-uso-de-etiquetas-adhesivas-para-productos)
 
 Las etiquetas adhesivas desempeñan un papel crucial en la presentación y promoción de productos.
 
