@@ -14,8 +14,12 @@
 .pagina aside {
   width: min(100%, 440px);
   display: grid;
-  gap: 1em;
+  gap: 32px;
   align-content: start;
+}
+
+.pagina aside a{
+  margin: 0 auto;
 }
 
 .landing_grid {
