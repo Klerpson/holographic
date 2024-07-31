@@ -31,7 +31,7 @@ Esto incluye el seguimiento de los insumos utilizados, el registro de los proces
 - [La trazabilidad interna en la industria farmacéutica del Ecuador](#trazabilidad-interna-en-el-sector-farmacéutico-importancia-y-regulaciones)
 - [Apóyate en Holographic para implementar la trazabilidad de tu mercancía](#trazabilidad-interna-y-cadena-de-valor-optimiza-tus-procesos-con-holographic)
 
-## Beneficios de la trazabilidad interna
+## Beneficios de la trazabilidad interna o de procesos
 
 ### 1. Mejora de la eficiencia en los procesos internos de la empresa
 

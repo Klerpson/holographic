@@ -25,9 +25,7 @@ videos:
 
 Los hologramas de seguridad son una tecnología cada vez más utilizada para proteger productos y documentos de falsificaciones y manipulaciones.
 
-Un holograma **es una imagen tridimensional** generada mediante el uso de técnicas de interferencia y difracción de la luz.
-
-Estos hologramas tienen propiedades únicas que los hacen **altamente efectivos en la protección de productos y empaques**.
+Un holograma **es una imagen tridimensional** generada mediante el uso de técnicas de interferencia y difracción de la luz. Estos hologramas tienen propiedades únicas que los hacen **altamente efectivos en la protección de productos y empaques**.
 
 A lo largo de la historia, han evolucionado para convertirse en una medida de seguridad ampliamente reconocida en diversos sectores.
 

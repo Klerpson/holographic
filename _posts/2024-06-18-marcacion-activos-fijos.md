@@ -14,7 +14,7 @@ videos:
   - videos/sticker-qr.mp4
   - videos/marcacion-activo-fijo.mp4
 ---
-## Marcación de activos con Holographic
+## Marcación de etiquetas para inventario de activos fijos
 
 - [Etiquetas para el inventario de tus activos fijos](#nuestras-etiquetas-para-inventario-de-activos-fijos "Etiquetas de Activos Fijos")
 - [Ventajas de marcar tus activos fijos con Holographic](#aprovecha-los-beneficios-de-aplicar-las-etiquetas-de-marcación-de-activos-fijos-con-holographic "Marcar Activos Fijos")
