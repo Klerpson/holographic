@@ -101,7 +101,7 @@ alt: Rollo de stickers holográficos
   <div class="home_gallery">
     {% for item in site.data.home.impresiones %}
     <div class="article flow">
-      <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="308" height="384">
+      <img src="{{item.img|relative_url}}" alt="{{item.alt}}" loading="lazy" width="308" height="384" title="Fotos de Productos de Holographic para marcación de activos y trazabilidad">
       <a href="{{item.url|relative_url}}" title="{{item.title}}" class="boton boton_1">{{item.nombre}}</a>
       <p>{{item.p}}</p>
     </div>
@@ -121,7 +121,7 @@ alt: Rollo de stickers holográficos
   <div class="blog_gallery">
     {% for post in site.posts limit: 4 %}
     <article class="article">
-      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="200" height="120">
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="200" height="120" title="Foto del tema '{{post.title}}'">
       <div class="flow">
         <a href="{{post.url|relative_url}}" title="{{post.title}}"><h4>{{post.h1}}</h4></a>
         <small>{{post.intro}}</small>
@@ -129,7 +129,7 @@ alt: Rollo de stickers holográficos
     </article>
     {% endfor %}
   </div>
-  <a href="{{'contacto'|relative_url}}" title="Contacta con Holographic" class="boton boton_1">Contáctanos y asesórate</a>
+  <a href="{{'contacto'|relative_url}}" title="Solicita tus etiquetas de seguridad a Holographic" class="boton boton_1">Contáctanos y asesórate</a>
 </section>
 
 {% include testimonios.html %}
