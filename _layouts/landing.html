@@ -3,10 +3,7 @@ layout: compress
 ---
 {% include head.html %}
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VMWNNRN"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
+ 
   <header class="landing_header wrapper bg">
     <div>
       <img src="{{'img/logotipo.webp'|relative_url}}" alt="Logotipo Holographic" width="240" height="56" class="logo">
@@ -28,5 +25,36 @@ layout: compress
   <a href="#">
     {% include boton-up.html %}
   </a>
+  <!-- Google Tag Manager Optimizado -->
+<script>
+  (function(w,d,s,l,i){
+      // Función para cargar GTM
+      function loadGTM() {
+          w[l]=w[l]||[];
+          w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+          var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),
+              dl=l!='dataLayer'?'&l='+l:'';
+          j.async=true;
+          j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+          f.parentNode.insertBefore(j,f);
+      }
+  
+      // Cargar GTM de forma diferida
+      if(w.requestIdleCallback){
+          w.requestIdleCallback(loadGTM, { timeout: 5000 });
+      } else {
+          w.addEventListener('load', function(){
+              setTimeout(loadGTM, 0);
+          });
+      }
+  })(window,document,'script','dataLayer','GTM-5VMWNNRN');
+  </script>
+  <!-- End Google Tag Manager Optimizado -->
+  
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VMWNNRN"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 </body>
 </html>
