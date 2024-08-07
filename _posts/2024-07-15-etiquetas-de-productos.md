@@ -51,7 +51,7 @@ Estas etiquetas se pueden aplicar fácilmente y retirar sin dejar residuos ni da
 
 ### Etiquetas adhesivas transparentes
 
-Si buscas una etiqueta discreta y profesional, [las etiquetas adhesivas transparentes]({{'productos/etiquetas-personalizadas/#impresión-de-las-etiquetas-personalizadas-transparentes' | relative_url}} "Etiquetas transpartentes"){:target="_blank"} son la opción perfecta.
+Si buscas una etiqueta discreta y profesional, [las etiquetas adhesivas transparentes]({{'productos/etiquetas-personalizadas#impresión-de-las-etiquetas-personalizadas-transparentes' | relative_url}} "Etiquetas transpartentes"){:target="_blank"} son la opción perfecta.
 
 Estas etiquetas se fusionan con el envase del producto, lo que les confiere una apariencia elegante y minimalista.
 

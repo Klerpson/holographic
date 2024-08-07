@@ -48,7 +48,7 @@ Estos [hologramas incluyen elementos móviles o cambiantes]({{'productos/etiquet
 
 #### Etiquetas de seguridad con hologramas personalizados
 
-Los [hologramas personalizados]({{'productos/etiquetas-personalizada'|relative_url}} "Hologramas de seguridad personalizado"){:target="_blank"} se adaptan a las necesidades específicas de cada cliente. Pueden incluir **logos, textos o elementos gráficos que representen la identidad de la organización**.
+Los [hologramas personalizados]({{'productos/etiquetas-personalizadas'|relative_url}} "Hologramas de seguridad personalizado"){:target="_blank"} se adaptan a las necesidades específicas de cada cliente. Pueden incluir **logos, textos o elementos gráficos que representen la identidad de la organización**.
 
 #### Etiquetas de seguridad con hologramas con elementos de alta tecnología
 
