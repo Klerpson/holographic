@@ -31,7 +31,7 @@ A lo largo de la historia, han evolucionado para convertirse en una medida de se
 
 [Asesórate gratis]({{ site.whatsapp }} "Contacta con Holographic"){:class="boton boton_1" target="_blank" rel="nofollow noopener noreferrer" id="lead_whatsapp"}
 
-## ¿Cómo funciona un holograma?
+## ¿Cómo funciona un holograma de etiquetas?
 
 {% include videos.html %}
 
@@ -49,7 +49,7 @@ Además, los hologramas pueden incorporar elementos de seguridad adicionales com
 
 Existen diferentes tipos de hologramas de seguridad. Algunos ejemplos son los hologramas 2D que generan una ilusión de profundidad y los [hologramas QR]({% post_url 2024-06-10-etiquetas-con-codigos-qr %} "Etiquetas QR"){:target="_blank"} que combinan un código QR con un holograma para generar un nivel adicional de autenticación.
 
-## Algunas aplicaciones de los hologramas de seguridad
+## Algunas aplicaciones de los hologramas de seguridad para Ecuador
 
 Las aplicaciones más comunes de los hologramas de seguridad son diversas y abarcan múltiples industrias. Aquí se presentan algunos de sus principales usos:
 

@@ -57,7 +57,7 @@ Son **ideales para consumos desde 1000 unidades hasta 50.000 unidades**.
 
 ### ¿Quieres que con tus sellos personalizadas tus productos resalten sobre la competencia?
 
-Nuestros hologramas personalizados son piezas holográficas con diseños exclusivos únicos en el mercado. Como verás en la siguiente sección, su variedad de elementos de seguridad todo un conjunto de herramientas antifalsificación. Adicionalmente, le agregan un toque único en su diseño para llamar la atención de tus clientes.
+Nuestros hologramas personalizados son **piezas de marcas holográficas** con diseños exclusivos únicos en el mercado. Como verás en la siguiente sección, su variedad de elementos de seguridad todo un conjunto de herramientas antifalsificación. Adicionalmente, le agregan un toque único en su diseño para llamar la atención de tus clientes.
 
 ## Las etiquetas holográficas personalizadas son un desarrollo de Holographic con muchos elementos de seguridad
 
