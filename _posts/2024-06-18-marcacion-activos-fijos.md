@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protege tus activos fijos con etiquetas de marcación"
+title: "Etiquetas de Activos Fijos para Proteger tu Dinero"
 description: "Utiliza las etiquetas holográficas y de seguridad de Holographic para simplificar el proceso de marcación de activos de tu negocio"
 h1: Marcación de activos fijos con etiquetas de papel y stickers holográficos 
 intro: Personaliza y protege tus productos con stickers holográficos y etiquetas adhesivas únicas.
