@@ -81,13 +81,13 @@ Estos pictogramas son parte del Sistema Globalmente Armonizado de Clasificación
 | --- | --- | --- |
 | **Explosivo** | Indica sustancias que pueden explotar bajo ciertas condiciones. | ![Ejemplo de una etiqueta de explosión para productos químicos]({{'img/blog/etiqueta-quimicos-explosion.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo explosiones") |
 | **Inflamable** | Señala productos que pueden arder fácilmente. | ![Ejemplo de una etiqueta de explosión para productos inflamables]({{'img/blog/etiqueta-quimicos-inflamable.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo químicos inflamables") |
-| **Comburente** | Indica sustancias que pueden provocar o intensificar un incendio. |  |
-| **Gas a presión** | Señala gases que están contenidos a alta presión. |  |
-| **Corrosivo** | Indica productos que pueden causar quemaduras en la piel o daño ocular, o que pueden corroer metales. |  |
-| **Toxicidad aguda** | Indica productos que pueden causar efectos tóxicos graves, incluso en pequeñas cantidades. |  |
-| **Peligro para la salud** | Señala riesgos crónicos, como cáncer o toxicidad a largo plazo. |  |
-| **Peligro grave para la salud** | Indica productos que pueden causar efectos graves en la salud, como sensibilización respiratoria. |  |
-| **Peligro para el medio ambiente** | Indica sustancias que son tóxicas para el medio ambiente acuático. |  |
+| **Comburente** | Indica sustancias que pueden provocar o intensificar un incendio. | ![Ejemplo de una etiqueta de explosión para productos comburentes]({{'img/blog/etiqueta-quimicos-comburente.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo productos comburentes") |
+| **Gas a presión** | Señala gases que están contenidos a alta presión. | ![Ejemplo de una etiqueta de explosión para gas a presión]({{'img/blog/etiqueta-quimicos-gas-a-presion.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo gas a presión") |
+| **Corrosivo** | Indica productos que pueden causar quemaduras en la piel o daño ocular, o que pueden corroer metales. | ![Ejemplo de una etiqueta de explosión para productos corrosivos]({{'img/blog/etiqueta-quimicos-corrosivo.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo productos corrosivos") |
+| **Toxicidad aguda** | Indica productos que pueden causar efectos tóxicos graves, incluso en pequeñas cantidades. | ![Ejemplo de una etiqueta de explosión para productos de toxicidad aguda]({{'img/blog/etiqueta-quimicos-toxicidad-aguda.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo toxicidad aguda") |
+| **Peligro para la salud** | Señala riesgos crónicos, como cáncer o toxicidad a largo plazo. | ![Ejemplo de una etiqueta de explosión para productos que son un peligro para la salud]({{'img/blog/etiqueta-quimicos-peligro-salud.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo peligro para la salud") |
+| **Peligro grave para la salud** | Indica productos que pueden causar efectos graves en la salud, como sensibilización respiratoria. | ![Ejemplo de una etiqueta de explosión para productos que son un peligro para la salud]({{'img/blog/etiqueta-quimicos-peligro-grave-para-la-salud.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo peligro para la salud") |
+| **Peligro para el medio ambiente** | Indica sustancias que son tóxicas para el medio ambiente acuático. | ![Ejemplo de una etiqueta de explosión para productos que son un peligro para el medio ambiente]({{'img/blog/etiqueta-quimicos-peligro-medio-ambiente.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo peligro para el medio ambiente") |
 
 ## Beneficios usar etiquetas de seguridad en tus productos
 
