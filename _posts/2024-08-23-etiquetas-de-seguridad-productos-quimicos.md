@@ -6,13 +6,9 @@ h1: "¿Distribuyes productos químicos? Utiliza etiquetas de seguridad"
 intro: "Protege tu empresa con el etiquetado de productos químicos y aprende sobre las etiquetas de seguridad según las últimas normas SGA"
 autor: Hernando - Holographic
 category: "Seguridad"
-# hero: img/blog/stickers-holograficos.webp
-# jpg: img/blog/stickers-holograficos.jpg
-# alt: Fotografía Protege tu empresade un sticker holográfico
-# videos:
-#   - videos/marcacion-activo-fijo.mp4
-#   - videos/sticker-platinum.mp4
-#   - videos/adhesivos-premium.mp4
+hero: img/blog/ejemplo-etiqueta.webp
+jpg: img/blog/ejemplo-etiqueta.jpg
+alt: Imagen de un sticker de seguridad de productos quimicos
 ---
 
 ## Etiquetas de seguridad en productos químicos: Todo lo que necesitas saber
@@ -61,8 +57,6 @@ Según el reglamento SGA, que mencionamos antes, la etiqueta de seguridad de un 
 
 Mira este ejemplo de cómo se compone una etiqueta de seguridad para un producto químico:
 
-![Ejemplo de una etiqueta de seguridad para productos químicos]({{'img/blog/ejemplo-etiqueta.webp'|relative_url}} "Etiqueta de un producto químico")
-
 Estos elementos garantizan que la información esencial sobre los peligros del producto químico y las medidas de seguridad necesarias sea clara y esté estandarizada a nivel mundial.
 
 Lo cual permite un manejo más seguro y consistente de los productos químicos en diferentes países.
@@ -85,8 +79,8 @@ Estos pictogramas son parte del Sistema Globalmente Armonizado de Clasificación
 
 | Pictograma | Descripción | Símbolo |
 | --- | --- | --- |
-| **Explosivo** | Indica sustancias que pueden explotar bajo ciertas condiciones. |  |
-| **Inflamable** | Señala productos que pueden arder fácilmente. |  |
+| **Explosivo** | Indica sustancias que pueden explotar bajo ciertas condiciones. | ![Ejemplo de una etiqueta de explosión para productos químicos]({{'img/blog/etiqueta-quimicos-explosion.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo explosiones") |
+| **Inflamable** | Señala productos que pueden arder fácilmente. | ![Ejemplo de una etiqueta de explosión para productos inflamables]({{'img/blog/etiqueta-quimicos-inflamable.webp' | relative_url }} "Etiqueta de un producto químico advirtiendo químicos inflamables") |
 | **Comburente** | Indica sustancias que pueden provocar o intensificar un incendio. |  |
 | **Gas a presión** | Señala gases que están contenidos a alta presión. |  |
 | **Corrosivo** | Indica productos que pueden causar quemaduras en la piel o daño ocular, o que pueden corroer metales. |  |
