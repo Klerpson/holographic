@@ -1,0 +1,80 @@
+---
+layout: compress
+title: Etiquetas de Seguridad y Holográficas para Empresas
+description: "En Holographic fabricamos etiquetas holográficas, etiquetas adhesivas, hologramas de seguridad vehicular, cintas de seguridad, estampillas para licores"
+published: no
+---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de Código QR de Holographic Ecuador</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        input, button {
+            margin: 10px 0;
+            padding: 10px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        #qrcode {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Generador de Código QR de Holographic</h1>
+    <input type="text" id="text" placeholder="Ingrese el texto o URL">
+    <button onclick="generateQR()">Generar Código QR</button>
+    <button onclick="downloadQR()">Descargar Código QR</button>
+    <div id="qrcode"></div>
+    
+  </div>
+
+    <script>
+        function generateQR() {
+            const text = document.getElementById('text').value;
+            const qr = qrcode(0, 'M');
+            qr.addData(text);
+            qr.make();
+            document.getElementById('qrcode').innerHTML = qr.createImgTag(5);
+        }
+
+        function downloadQR() {
+            const img = document.querySelector("#qrcode img");
+            if (img) {
+                const canvas = document.createElement("canvas");
+                canvas.width = img.width;
+                canvas.height = img.height;
+                const ctx = canvas.getContext("2d");
+                ctx.drawImage(img, 0, 0);
+                canvas.toBlob(function(blob) {
+                    saveAs(blob, "codigo_qr.png");
+                });
+            } else {
+                alert("Por favor, genera un código QR primero.");
+            }
+        }
+    </script>
+</body>
+</html>

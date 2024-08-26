@@ -4,7 +4,7 @@ title: "Etiquetas de garantía: Consíguelas con Holographic"
 description: Utiliza etiquetas de garantía para evitar pérdidas en tu empresa por reclamos injustificados. Aumenta el control y la seguridad de tu mercancía.
 autor: Hernando - Holographic
 category: "Seguridad"
-h1: Consigue etiquetas de seguridad para dar garantías
+h1: Consigue etiquetas de garantía para asegurar tus productos
 intro: Las etiquetas de seguridad te ahorrarán gastos innecesarios al regular las garantías que ofrece tu empresa. ¡Conócelas!
 jpg: img/etiqueta-garantia.jpg
 hero: img/etiqueta-garantia.webp

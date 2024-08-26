@@ -5,9 +5,23 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Aug 2024 07:23:15 -0500</pubDate>
-    <lastBuildDate>Mon, 12 Aug 2024 07:23:15 -0500</lastBuildDate>
+    <pubDate>Fri, 23 Aug 2024 19:29:37 -0500</pubDate>
+    <lastBuildDate>Fri, 23 Aug 2024 19:29:37 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Consigue etiquetas de seguridad para productos químicos</title>
+        <description>¿Qué es la etiqueta de seguridad de un producto químico y cómo funciona? Aprende sus características, aplicaciones y normas para protección</description>
+        <pubDate>Fri, 23 Aug 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/etiquetas-de-seguridad-productos-quimicos</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-de-seguridad-productos-quimicos</guid>
+        
+        
+        
+        
+        <category>Seguridad</category>
+        
+      </item>
     
       <item>
         <title>Hologramas de Seguridad para Credenciales: Protección Total</title>
@@ -127,20 +141,6 @@
         <pubDate>Thu, 20 Jun 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/autoridades-y-gobierno</link>
         <guid isPermaLink="true">http://localhost:4000/blog/autoridades-y-gobierno</guid>
-        
-        
-        
-        
-        <category>Antifalsificación</category>
-        
-      </item>
-    
-      <item>
-        <title>Etiquetas Holográficas para Medicamentos - Máxima Seguridad</title>
-        <description>Protege tus medicamentos con etiquetas holográficas. Calidad y seguridad garantizadas para tus productos farmacéuticos con Holographic</description>
-        <pubDate>Wed, 19 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/etiquetas-productos-farmaceuticos</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-productos-farmaceuticos</guid>
         
         
         
