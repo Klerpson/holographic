@@ -5,9 +5,23 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Aug 2024 16:08:10 -0500</pubDate>
-    <lastBuildDate>Mon, 26 Aug 2024 16:08:10 -0500</lastBuildDate>
+    <pubDate>Tue, 10 Sep 2024 16:05:49 -0500</pubDate>
+    <lastBuildDate>Tue, 10 Sep 2024 16:05:49 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>¿Qué es el Hot Stamping? Aprende cómo elevar tus productos al siguiente nivel</title>
+        <description>Explora cómo el Hot Stamping puede transformar tus productos. Sus ventajas, desventajas, y recomendaciones para implementar esta técnica de impresión.</description>
+        <pubDate>Tue, 10 Sep 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/hot-stamping</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/hot-stamping</guid>
+        
+        
+        
+        
+        <category>Seguridad</category>
+        
+      </item>
     
       <item>
         <title>Consigue etiquetas de seguridad para productos químicos</title>
@@ -127,20 +141,6 @@
         <pubDate>Thu, 20 Jun 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/etiquetas-para-alimentos</link>
         <guid isPermaLink="true">http://localhost:4000/blog/etiquetas-para-alimentos</guid>
-        
-        
-        
-        
-        <category>Antifalsificación</category>
-        
-      </item>
-    
-      <item>
-        <title>Seguridad en Documentos: De Hologramas a Etiquetas QR</title>
-        <description>De hologramas a códigos de barras y QR: una guía completa sobre seguridad en documentos. Aprende a identificar y utilizar estas tecnologías.</description>
-        <pubDate>Thu, 20 Jun 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/autoridades-y-gobierno</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/autoridades-y-gobierno</guid>
         
         
         
