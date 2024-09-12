@@ -10,9 +10,6 @@ hero: img/etiqueta-hot-stamping.webp
 jpg: etiqueta-hot-stamping.jpg
 alt: Fotografía de una etiqueta Hot Stamping
 ---
-
-# Hot Stamping: Una técnica que viste celebridades y empaca smartphones
-
 Usada por marcas de lujo como Louis Vuitton y gigantes de tecnología como Apple.
 
 El **Hot Stamping** en una de las técnicas de etiquetado más aplicadas por empresas para la marcación de productos y empaques.
@@ -29,6 +26,8 @@ Mediante este proceso se crean etiquetas y grabados con acabados elegantes y dur
 
 ## Ejemplos de productos que utilizan grabado Hot Stamping
 
+<!-- En esta sección vamos a incluir las 5 fotografías que se encuentran en la carpeta "fotos" del zip. Por favor, utilizar el slider que ví en la url slslslslslsls -->
+
 - Empaques de lujo
 - Libros y portadas
 - Artículos de cuero
@@ -39,7 +38,8 @@ Mediante este proceso se crean etiquetas y grabados con acabados elegantes y dur
 
 Nuestras bobinas de papel están **hechas con tecnología térmico-resistente**, por lo que pueden soportar variaciones de temperatura sin perder adherencia, garantizando una aplicación duradera y confiable.
 
-**CTA:** Pide tus rollos para Hot Stamping
+Con Holographic puedes pedir tus (rollos de papel holográfico para Hot Stamping)
+<!-- lo que está entre paréntisis es un enlace dirigido a alalalalalalalal -->
 
 ## ¿Cómo se hace el Hot Stamping?
 
@@ -51,12 +51,12 @@ Para hacer una impresión con acabado Hot Stamping se siguen los siguientes paso
 4. El calor y la presión transfieren el diseño del foil al sustrato.
 5. Por último, el sustrato se enfría y se retira el exceso de foil.
 
-## ¿Qué equipos se necesitan para hacer Hot Stamping?
+### ¿Qué equipos se necesitan para hacer Hot Stamping?
 
 - **Máquina de Hot Stamping**: Es el equipo principal que aplica calor y presión para transferir la lámina al material. Las prensas pueden ser manuales, semiautomáticas o automáticas, dependiendo del nivel de producción.
 - **Troqueles o clichés**: Son moldes de metal (generalmente de magnesio, latón o cobre) que contienen el diseño o logotipo que se va a transferir. Estos troqueles son grabados o tallados en relieve para que el diseño se imprima en la superficie deseada.
 - **Láminas de Hot Stamping**: Son finas hojas que contienen la capa de pigmento o metalizado que se transfiere al material. Las láminas pueden ser de diferentes colores y acabados, como metalizados, holográficos, o mate.
-- **Sustrato**: Es el material sobre el cual se va a aplicar el Hot Stamping, que puede ser papel, cartón, plástico, cuero, tela, entre otros.
+- **Sustrato**: Es el material sobre el cual se va a aplicar el Hot Stamping, que puede ser papel de las etiquetas de seguridad, cartón, plástico, cuero, tela, entre otros.
 - **Controlador de temperatura**: Este dispositivo regula la temperatura de la prensa, asegurando que se mantenga constante y adecuada para el tipo de lámina y sustrato que se está utilizando.
 - **Rodillos o cilindros de presión**: En las prensas más avanzadas, estos rodillos ayudan a aplicar la presión de manera uniforme sobre el troquel, asegurando una transferencia precisa.
 - **Mesa de trabajo o soporte**: Es el área donde se colocan los materiales que van a ser estampados. Algunas prensas incluyen una mesa de trabajo ajustable.
