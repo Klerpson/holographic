@@ -1,20 +1,27 @@
 document.addEventListener("DOMContentLoaded", function() {
-  // Detectar si el usuario está en móvil o escritorio
-  var isMobile = /iPhone|Android|iPad|iPod|Windows Phone|webOS|BlackBerry|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent);
-  
-  // Obtener todos los enlaces de WhatsApp en la página
-  var whatsappLinks = document.querySelectorAll("a#lead_whatsapp");
+    // Detectar si el usuario está en móvil o escritorio
+    var isMobile = /iPhone|Android|iPad|iPod|Windows Phone|webOS|BlackBerry|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent);
+    
+    // Obtener la URL actual de la página
+    var currentURL = window.location.href;
 
-  // Recorrer los enlaces y cambiar el href según el dispositivo
-  whatsappLinks.forEach(function(link) {
-      var mobileLink = "https://wa.me/593968493326?text=👋Hola,%20estoy%20interesado%20en%20las%20etiquetas%20de%20seguridad";
-      var desktopLink = "https://web.whatsapp.com/send?phone=593968493326&text=👋Hola,%20estoy%20interesado%20en%20las%20etiquetas%20de%20seguridad";
-      
-      // Asignar el enlace adecuado
-      if (isMobile) {
-          link.setAttribute("href", mobileLink);
-      } else {
-          link.setAttribute("href", desktopLink);
-      }
-  });
+    // Obtener todos los enlaces de WhatsApp en la página
+    var whatsappLinks = document.querySelectorAll("a.whatsapp-link");
+
+    // Recorrer los enlaces y cambiar el href según el dispositivo
+    whatsappLinks.forEach(function(link) {
+        // Mensaje con la URL actual
+        var message = "Hola! Me gustaría recibir más asesoría sobre esta información: " + encodeURIComponent(currentURL);
+
+        // Enlaces de WhatsApp para móvil y escritorio con el mensaje dinámico
+        var mobileLink = "https://wa.me/593968493326?text=" + message;
+        var desktopLink = "https://web.whatsapp.com/send?phone=593968493326&text=" + message;
+        
+        // Asignar el enlace adecuado según el dispositivo
+        if (isMobile) {
+            link.setAttribute("href", mobileLink);
+        } else {
+            link.setAttribute("href", desktopLink);
+        }
+    });
 });
