@@ -5,9 +5,9 @@ h1: Avisos legales del uso de holographic.ec
 description: Condiciones de uso, privacidad y términos y condiciones de la página de Holographic S.A.S
 noindex: true
 ---
-# POLÍTICAS DE TRATAMIENTO DE DATOS PERSONALES HOLOGRAPHIC S.A.S.
+## POLÍTICAS DE TRATAMIENTO DE DATOS PERSONALES HOLOGRAPHIC S.A.S.
 
-## 1. DISPOSICIONES GENERALES
+### 1. DISPOSICIONES GENERALES
 
 HOLOGRAPHIC S.A.S., identificada con RUC No 1793212689001, domiciliada en Colon y 9 de octubre, Edificio Plaza Colón 2, local 3 PB, Quito 170102, Ecuador, en cumplimiento de la Ley 1581 de 2012 y de los Decretos 1377 de 2013 y 886 de 2014, adopta las políticas de tratamiento de datos personales de obligatoria aplicación para todos los datos personales recolectados, procesados, almacenados, usados, actualizados y suprimidos por la empresa.
 
@@ -15,7 +15,7 @@ Estas políticas son de obligatorio y estricto cumplimiento por parte de todos l
 
 El incumplimiento de estas políticas originará sanciones de tipo laboral, civil y penal. Lo anterior sin perjuicio de las sanciones establecidas en los artículos 23 y 24 de la Ley 1581 de 2012, como las sanciones penales correspondientes a fugas de información y violación de datos personales, consagradas en la Ley 1273 de 2009.
 
-## 2. OBJETIVO
+### 2. OBJETIVO
 
 Las políticas de protección de datos personales de HOLOGRAPHIC S.A.S., tienen como objetivo principal dar cumplimiento a la Ley 1581 de 2012 y a los Decretos 1377 de 2013 y 886 de 2014, Circular 003 de 2015 de la Superintendencia de Industria y Comercio, como a las demás normas que las modifiquen, adicionen o reglamenten; en este orden de ideas, la presente política se desarrollará bajo la siguiente premisa:
 
@@ -23,7 +23,7 @@ Las políticas de protección de datos personales de HOLOGRAPHIC S.A.S., tienen 
 
 El presente documento plantea las pautas y procedimientos a llevar a cabo para una adecuada protección de datos personales en los distintos procesos de nuestra empresa.
 
-## 3. CUMPLIMIENTO
+### 3. CUMPLIMIENTO
 
 Las políticas de protección de datos personales de HOLOGRAPHIC S.A.S., cubren todos los aspectos administrativos, organizacionales, culturales, comerciales y de control que deben ser cumplidos por la gerencia, empleados, técnicos, contratistas, aliados, proveedores y terceros que laboren o tengan relación directa con la empresa.
 
@@ -33,7 +33,7 @@ No obstante, en atención a lo dispuesto en la Ley 1581 de 2012, de estas polít
 
 Así mismo, y de acuerdo a la actividad de crédito de HOLOGRAPHIC S.A.S., estas políticas se complementarán con lo señalado en la Ley 1266 de 2008, en los casos que la empresa realice actividades comerciales o de reporte a centrales de riesgo.
 
-## 4. MARCO NORMATIVO
+### 4. MARCO NORMATIVO
 
 Las políticas de protección de datos personales de la compañía se rigen por las siguientes normas de manera interna y externa:
 
@@ -44,7 +44,7 @@ Las políticas de protección de datos personales de la compañía se rigen por 
 -   **DECRETO 886 DE 2014**: Por el cual se reglamenta el artículo 25 de la Ley 1581 de 2012, relativo al Registro Nacional de Bases de Datos Personales, el cual se encuentra a cargo de la Superintendencia de Industria y Comercio, y donde quienes actúen como Responsables del tratamiento de datos personales, deberán registrar sus Bases de Datos siguiendo las instrucciones de este decreto.
 -   **CIRCULAR 002 DEL 3 NOVIEMBRE DE 2015**: Por la cual se habilita el Registro Nacional de Bases de Datos.
 
-## 5. DEFINICIONES
+### 5. DEFINICIONES
 
 Las siguientes definiciones se tendrán en cuenta para las presentes políticas como para el tratamiento de datos personales en la institución.
 
@@ -60,7 +60,7 @@ Las siguientes definiciones se tendrán en cuenta para las presentes políticas 
 -   **Oficial de privacidad o de protección de datos**: Es la persona o dependencia dentro de HOLOGRAPHIC S.A.S., la cual tendrá como función la vigilancia y control de la presente política bajo el control y supervisión de la Gerencia General.
 -   **Medidas Técnicas**: Son las medidas técnicas y tecnológicas, como firmas digitales, firmas electrónicas, cifrado de datos, sistemas de información, para garantizar la protección de la información y los datos en HOLOGRAPHIC S.A.S..
 
-## 6. PRINCIPIOS APLICABLES AL TRATAMIENTO DE DATOS PERSONALES
+### 6. PRINCIPIOS APLICABLES AL TRATAMIENTO DE DATOS PERSONALES
 
 El manejo y tratamiento de datos personales y sensibles, dentro de HOLOGRAPHIC S.A.S., deberá estar enmarcado bajo los siguientes principios:
 
@@ -72,7 +72,7 @@ El manejo y tratamiento de datos personales y sensibles, dentro de HOLOGRAPHIC S
 -   **Seguridad**: Son las Medidas técnicas, humanas y administrativas necesarias para evitar adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento.
 -   **Confidencialidad**: Reserva de la información, durante y después de terminadas las actividades de tratamiento de los datos personales por parte de HOLOGRAPHIC S.A.S..
 
-## 7. POLÍTICA EMPRESARIAL DE PROTECCIÓN DE DATOS
+### 7. POLÍTICA EMPRESARIAL DE PROTECCIÓN DE DATOS
 
 Para dar cumplimiento a las políticas de protección de datos y a las obligaciones de la Ley 1581 de 2012, sus Decretos Reglamentarios y las demás normas que la complementen, adicionen o modifiquen, se debe tener en cuenta lo siguiente para el manejo de información y datos personales en HOLOGRAPHIC S.A.S..
 
@@ -80,7 +80,7 @@ Para HOLOGRAPHIC S.A.S., información personal es uno de los activos más import
 
 La información que se encuentra en las bases de datos y Sistemas de información o Sistemas Comerciales de HOLOGRAPHIC S.A.S., ha sido obtenida en desarrollo de la actividad de la compañía, en todo caso su recopilación se ha hecho y se hará siempre atendiendo los criterios del marco jurídico colombiano.
 
-## 8. REGLAS GENERALES PARA LA PROTECCIÓN DE LOS DATOS PERSONALES EN HOLOGRAPHIC S.A.S.
+### 8. REGLAS GENERALES PARA LA PROTECCIÓN DE LOS DATOS PERSONALES EN HOLOGRAPHIC S.A.S.
 
 Además de la implementación y búsqueda del cumplimiento de las políticas de protección de datos personales, dentro de HOLOGRAPHIC S.A.S. se observarán las siguientes reglas generales:
 
@@ -92,7 +92,7 @@ Además de la implementación y búsqueda del cumplimiento de las políticas de 
 -   La formación y capacitación de los funcionarios, proveedores, contratistas,
 -   HOLOGRAPHIC S.A.S.. deberá estar atento a las distintas instrucciones en protección de datos como los mecanismos que se creen por parte de la Delegatura de Protección de datos personales de la Superintendencia de Industria y Comercio.
 
-## 9. RECOLECCIÓN DE INFORMACIÓN PERSONAL, Y AUTORIZACIÓN DEL TITULAR
+### 9. RECOLECCIÓN DE INFORMACIÓN PERSONAL, Y AUTORIZACIÓN DEL TITULAR
 
 HOLOGRAPHIC S.A.S. hará saber al titular del dato de manera previa, expresa e informada a la autorización del tratamiento de sus datos personales, sobre la existencia y aceptación de las condiciones particulares del tratamiento de sus datos en cada caso, informándole los mecanismos y procedimiento que tiene para actualizarlos, rectificarlos o eliminarlos de las bases de datos con información personal o sensible.
 
@@ -100,7 +100,7 @@ Las personas que dentro de HOLOGRAPHIC S.A.S., en desarrollo de alguno de sus pr
 
 Desde la parte comercial de HOLOGRAPHIC S.A.S., con el uso de CRM, y su página web [http://www.holographic-s.a.s..com](http://www.holographic-s.a.s..com), como los distintos aspectos comerciales siempre debe buscarse la autorización del titular, la calidad del dato, como el manejo responsable de la información.
 
-### 9.1 REVOCATORIA DE LA AUTORIZACIÓN
+#### 9.1 REVOCATORIA DE LA AUTORIZACIÓN
 
 Los titulares de los datos personales podrán en cualquier momento solicitar a HOLOGRAPHIC S.A.S., la supresión de sus datos personales y/o revocar la autorización otorgada para el tratamiento de los mismos. La solicitud de supresión de la información no es procedente cuando el Titular tenga un deber legal o contractual.
 
@@ -111,11 +111,11 @@ El Titular tiene dos opciones para revocar su consentimiento:
 
 En todo caso, HOLOGRAPHIC S.A.S. no podrá exceder en la revocatoria del dato, los plazos establecidos en el artículo 15 de la Ley 1581 de 2012 para reclamaciones.
 
-## 10. TRATAMIENTO AL QUE SERÁN SUJETOS LOS DATOS PERSONALES EN PODER DE HOLOGRAPHIC S.A.S.
+### 10. TRATAMIENTO AL QUE SERÁN SUJETOS LOS DATOS PERSONALES EN PODER DE HOLOGRAPHIC S.A.S.
 
 A los datos personales que reposen en ficheros, ya sean físicos o electrónicos, se les realizará un tratamiento, el cual consiste en las siguientes actividades:
 
-### 10.1 Recolección de información
+#### 10.1 Recolección de información
 
 HOLOGRAPHIC S.A.S. recolecta la información de los Titulares, a partir de la implementación y diligenciamiento a través de los siguientes mecanismos:
 
@@ -137,33 +137,33 @@ Los formatos de recolección de información deberán contener el aviso de priva
 | CLIENTES              | 1500                 | SÍ           |
 | PROSPECTOS CLIENTES   | 9000                 | NO           |
 
-### 10.2 Almacenamiento de la información de los Titulares interesados
+#### 10.2 Almacenamiento de la información de los Titulares interesados
 
 Los datos obtenidos del Titular, previa autorización expresa e informada, serán dispuestos en una base de datos o en un sistema informático creado para tal fin ya sea en forma física o automatizada, de forma que se garantizará su seguridad frente al acceso, confidencialidad y uso.
 
-### 10.3 Envío de Información al Titular de los datos personales
+#### 10.3 Envío de Información al Titular de los datos personales
 
 A partir de la información disponible en HOLOGRAPHIC S.A.S., que contiene datos básicos de nombres, apellidos, teléfono, dirección de contacto (física o electrónica), registrados en la base de datos creada para tal fin, esta dará a conocer los eventos, aspectos comerciales que son de interés para el grupo de Titulares registrados en la base de datos y seguirá estrictamente las finalidades para las cuales se le autorizó realizar el tratamiento.
 
-## 11. FINALIDADES CON LA QUE SE EFECTÚA LA RECOLECCIÓN DE DATOS PERSONALES Y TRATAMIENTO DE LOS MISMOS
+### 11. FINALIDADES CON LA QUE SE EFECTÚA LA RECOLECCIÓN DE DATOS PERSONALES Y TRATAMIENTO DE LOS MISMOS
 
 La recolección y tratamiento de datos personales por parte de HOLOGRAPHIC S.A.S., relativa a sus clientes, empleados y proveedores obedece a las finalidades descritas a continuación:
 
-### 11.1 FRENTE A LOS EMPLEADOS
+#### 11.1 FRENTE A LOS EMPLEADOS
 
 **Gestión de la relación laboral**: esta finalidad incluye específicamente los pagos de salarios, el control de novedades laborales como incapacidades, permisos, el control de acceso y horario de trabajo del empleado, el control del personal activo de la compañía, las afiliaciones y aportes a seguridad como los aspectos administrativos de la empresa.
 
-### 11.2 FRENTE A LOS CLIENTES
+#### 11.2 FRENTE A LOS CLIENTES
 
 **Cumplimiento de la relación contractual**: esta finalidad incluye específicamente las actividades de creación del cliente, servicios de crédito y empresariales, manejo de datos para contacto del cliente con fines de calidad del servicio, como prestación del mismo.
 
 **GESTIÓN COMERCIAL**: Esta finalidad incluye específicamente la comercialización, distribución, promoción de productos y servicios de HOLOGRAPHIC S.A.S., el control de clientes, y lo relacionado con el servicio de atención al cliente de los distintos productos comerciales de impresión y de Stickers y de impresión.
 
-### 11.3 PROVEEDORES
+#### 11.3 PROVEEDORES
 
 La gestión de las relaciones comerciales que surjan, con el objeto de adquirir sus productos, o servicios como insumos de impresión para el funcionamiento de la organización como para la distribución y comercialización.
 
-## 12. PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO DE HABEAS DATA
+### 12. PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO DE HABEAS DATA
 
 Los titulares cuya información se encuentre en bases de datos de propiedad de HOLOGRAPHIC S.A.S., o los terceros legitimados por ley o autorizados expresamente y por escrito por parte del titular, para el ejercicio de sus derechos de Actualización, Rectificación, Conocimiento o Supresión de su información personal podrán utilizar los siguientes mecanismos para el envío de su petición:
 
@@ -177,7 +177,7 @@ El área competente informará al titular sobre la recepción de la petición. C
 
 Cuando no fuere posible atender el reclamo dentro de dicho término, se informará al interesado los motivos de la demora y la fecha en que se atenderá su reclamo, la cual en ningún caso podrá superar los ocho (8) días hábiles siguientes al vencimiento del primer término.
 
-## 13. ÁREA RESPONSABLE DEL OFICIAL DE PRIVACIDAD O DE LA PERSONA DESIGNADA PARA LA PROTECCIÓN DE DATOS
+### 13. ÁREA RESPONSABLE DEL OFICIAL DE PRIVACIDAD O DE LA PERSONA DESIGNADA PARA LA PROTECCIÓN DE DATOS
 
 La responsabilidad de velar por la adecuada protección de datos personales, como del cumplimiento normativo frente al tema en HOLOGRAPHIC S.A.S. estará en cabeza del OFICIAL DE PRIVACIDAD, vinculada la Gerencia General de HOLOGRAPHIC S.A.S. con el apoyo del aérea de Tecnología.
 
@@ -192,7 +192,7 @@ El oficial de privacidad tendrá las siguientes funciones:
 - Crear formatos y distintos procedimientos con el fin de aplicar dentro de la compañía la Ley 1581 de 2012 y el Decreto 1377 de 2013.
 - Realizar lo señalado en la ley para el cumplimiento de las obligaciones empresariales en la protección de datos.
 
-## 14. DERECHOS DE LOS TITULARES DE LA INFORMACIÓN
+### 14. DERECHOS DE LOS TITULARES DE LA INFORMACIÓN
 
 De acuerdo a lo establecido en la Ley estatutaria 1581 de 2012, sobre protección de datos personales y su decreto reglamentario 1377 de 2013, los derechos que le asisten a los titulares de la información sobre los cuales HOLOGRAPHIC S.A.S. debe velar para su cumplimiento y garantizar su ejercicio, son:
 
@@ -216,13 +216,13 @@ i) Acceso a la información personal, para lo cual los encargados y responsables
 
 j) Ejercer el derecho de acceso para actualizar, rectificar, eliminar datos personales.
 
-## 15. ROL EN EL TRATAMIENTO Y OBLIGACIONES PARA LA PROTECCIÓN DE DATOS PERSONALES
+### 15. ROL EN EL TRATAMIENTO Y OBLIGACIONES PARA LA PROTECCIÓN DE DATOS PERSONALES
 
 La empresa HOLOGRAPHIC S.A.S., debidamente constituida, identificada con NIT No 900.430.518-2 con domicilio en la ciudad de Bogotá, en la Calle Carrera. No 114D No. 145 – 45, oficina 201, expide las presentes políticas de tratamiento de información, en cumplimiento de la Constitución y la Ley 1581 de 2012, así como sus Decretos reglamentarios 1377 de 2013 y 886 de 2014. 
 
 De igual forma se manifiesta que HOLOGRAPHIC S.A.S. de acuerdo a los diversos procesos que manejan tanto con empleados, proveedores y clientes ostenta una calidad de responsable del tratamiento de los datos personales y como tal debe cumplir los deberes impuestos por la legislación.
 
-## 18. VIGENCIA Y ACTUALIZACIÓN
+### 18. VIGENCIA Y ACTUALIZACIÓN
 
 La fecha de entrada en vigencia de las presentes políticas actualizadas es del 1 de Noviembre de 2016. Así mismo, su actualización dependerá de las instrucciones del oficial de privacidad de HOLOGRAPHIC S.A.S. en concordancia con los lineamientos de la Gerencia General, así como de las extensiones reglamentarias que haga la Superintendencia de Industria y Comercio como ente de vigilancia y control.
 
