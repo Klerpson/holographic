@@ -35,7 +35,7 @@ Mira algunos de los productos dónde nuestros clientes usan etiquetas con grabad
 - Invitaciones y tarjetas de presentación
 - Cajas para embalajes
 
-### ¿Buscas rollos de papel preparados para impresión Hot Stamping?
+### Utiliza los rollos de papel preparados para impresión Hot Stamping
 
 Nuestras bobinas de papel están **[hechas con tecnología térmico-resistente]({{'productos/bobinas-papel-holografico' | relative_url }} "Rollos de papel holográfico")**, por lo que pueden soportar variaciones de temperatura sin perder adherencia, garantizando una aplicación duradera y confiable.
 
@@ -90,6 +90,8 @@ Así que, si estás considerando implementar Hot Stamping en tu negocio, es impo
 3. Te asegures de tener el equipamiento necesario y que sea de buena calidad.
 4. Investigues proveedores confiables.
 5. Consideres tanto las ventajas como las limitaciones de esta técnica.
+
+[Mira los rollos para Hot Stamping]({{'productos/bobinas-papel-holografico' | relative_url }} "Rollos de papel holográfico"){:class="boton boton_1"}
 
 Recuerda que con buena planificación y la ejecución adecuada, puedes llevar la calidad y el atractivo de tus productos al siguiente nivel.
 
