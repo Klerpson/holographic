@@ -13,8 +13,6 @@ alt: Fotografía de una etiqueta Hot Stamping
 
 Usada por marcas de lujo como Louis Vuitton y gigantes de tecnología como Apple.
 
-El **Hot Stamping** en una de las técnicas de etiquetado más aplicadas por empresas para la marcación de productos y empaques.
-
 Aquí aprenderás qué es el Hot Stamping, cómo se utiliza en hologramas de seguridad, así como la ventajas y desventajas de aplicar este acabado en las etiquetas de tus productos.
 
 ¡Vamos a ello!
@@ -40,9 +38,9 @@ Mira algunos de los productos dónde nuestros clientes usan etiquetas con grabad
 
 ### ¿Buscas rollos de papel preparados para impresión Hot Stamping?
 
-Nuestras bobinas de papel están **hechas con tecnología térmico-resistente** <!-- Esta frase en negrita en un enlace a la siguiente página de producto: https://holographic.ec/productos/bobinas-papel-holografico -->, por lo que pueden soportar variaciones de temperatura sin perder adherencia, garantizando una aplicación duradera y confiable.
+Nuestras bobinas de papel están **[hechas con tecnología térmico-resistente]({{'productos/bobinas-papel-holografico' | relative_url }} "Rollos de papel holográfico")** <!-- Esta frase en negrita en un enlace a la siguiente página de producto: https://holographic.ec/ -->, por lo que pueden soportar variaciones de temperatura sin perder adherencia, garantizando una aplicación duradera y confiable.
 
-Pide tus rollos para Hot Stamping <!-- Este párrafo es un botón de llamada a la acción -->
+[Mira los rollos para Hot Stamping]({{'productos/bobinas-papel-holografico' | relative_url }} "Rollos de papel holográfico"){:class="boton boton_1"}
 
 ## Ventajas y desventajas del estampado Hot Stamping
 
