@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "¿Qué es el Hot Stamping? Aplícalo en stickers holográficos"
+title: "¿Qué es el Hot Stamping? Aplícalo en etiquetas holográficas"
 description: "Explora cómo el Hot Stamping puede transformar tus etiquetas holográficas: ventajas, desventajas y recomendaciones con esta técnica de impresión"
-h1: "Hot Stamping: Una técnica que viste celebridades y empaca smartphones"
+h1: "Hot Stamping: Una técnica para etiquetas que aumenta la seguridad"
 intro: "Hot Stamping para etiquetas holográficas: La técnica de termo-grabado preferida en la industria."
 autor: Hernando - Holographic
 category: "Seguridad"
-hero: Etiqueta_Hot Stamping.webp
-jpg: Etiqueta_Hot Stamping.jpg
+hero: img/blog/rollo-hot-stamping.webp
+jpg: img/blog/rollo-hot-stamping.jpg
 alt: Fotografía de una etiqueta Hot Stamping
 ---
 
@@ -34,13 +34,14 @@ Mira algunos de los productos dónde nuestros clientes usan etiquetas con grabad
 - Artículos de cuero
 - Invitaciones y tarjetas de presentación
 - Cajas para embalajes
-<!-- Cada punto de la lista debe incluir la respectiva imagen que se encuentran en la carpeta de multimedia. Hay un ejemplo de como van organizadas las imágenes en el siguiente enlace: https://holographic.ec/productos/etiquetas-personalizadas bajo el subtitulo "Algunas muestras de stickers holográficos personalizados" -->
 
 ### ¿Buscas rollos de papel preparados para impresión Hot Stamping?
 
-Nuestras bobinas de papel están **[hechas con tecnología térmico-resistente]({{'productos/bobinas-papel-holografico' | relative_url }} "Rollos de papel holográfico")** <!-- Esta frase en negrita en un enlace a la siguiente página de producto: https://holographic.ec/ -->, por lo que pueden soportar variaciones de temperatura sin perder adherencia, garantizando una aplicación duradera y confiable.
+Nuestras bobinas de papel están **[hechas con tecnología térmico-resistente]({{'productos/bobinas-papel-holografico' | relative_url }} "Rollos de papel holográfico")**, por lo que pueden soportar variaciones de temperatura sin perder adherencia, garantizando una aplicación duradera y confiable.
 
 [Mira los rollos para Hot Stamping]({{'productos/bobinas-papel-holografico' | relative_url }} "Rollos de papel holográfico"){:class="boton boton_1"}
+
+-----
 
 ## Ventajas y desventajas del estampado Hot Stamping
 
