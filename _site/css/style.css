@@ -9,7 +9,7 @@
   --grisFuentes: #3f3f4a;
   --fuenteTitulos: 'Montserrat', sans-serif;
   --fuenteTexto: 'Karma', serif;
-  --radius: 8px;
+  --radius: 12px;
   --shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.42);
 }
 
@@ -179,13 +179,13 @@ button{
 }
 
 .wrapper {
-  width: min(calc(100% - 20px), 1280px);
+  width: min(calc(100% - 20px), 1336px);
   margin-inline: auto;
   padding: 4rem 0;
 }
 
 .content {
-  width: min(calc(100% - 20px), 1280px);
+  width: min(calc(100% - 20px), 1336px);
   margin-inline: auto;
 }
 
@@ -326,7 +326,7 @@ lord-icon{
 
 .bloques > div{
   position: relative;
-  padding: 28px 20px;
+  padding: 28px;
   display: grid;
   gap: 1em;
   place-content: center;
@@ -374,6 +374,34 @@ lord-icon{
   place-items: center;
 }
 
+.dos_columnas{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2em;
+  margin-bottom: 8em;
+
+  div{
+    flex: 1 0 400px;
+    max-width: 100%;
+    display: grid;
+    place-items: center;
+    place-content: center;
+    border-radius: var(--radius);
+
+    img{
+      object-fit: cover;
+      
+      &.bg_marca{
+        padding: 20px;
+      }
+    }
+  }
+}
+
+.dos_columnas_izquierda{
+  flex-direction: row-reverse;
+}
 /* BG OFICIAL
 background: rgb(0,181,19);
 background: linear-gradient(135deg, rgba(0,181,19,1) 0%, rgba(255,254,0,1) 25%, rgba(255,0,0,1) 49%, rgba(255,121,0,1) 74%, rgba(14,0,255,1) 100%); */

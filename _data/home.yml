@@ -32,33 +32,33 @@ stickers:
 
 hologramas:
   - img: img/estampilla-licores.webp
-    alt: Estampilla para licores
+    alt: Estampilla de seguridad para licores
     nombre: Estampillas de licores
-    p: Estampillas de licores para impuestos y rentas
+    p: Protege tus botellas de licor de la falsificación
     url: "productos/estampillas-para-licores"
     title: Estampillas licores
   - img: img/servicio-premium.webp
     alt: Servicio de stickers holográficos platinum
-    nombre: Stickers para vehículos
-    p: Sticker de seguridad para verificación vehicular
+    nombre: Hologramas vehiculares
+    p: Cumple con las normas de revisión vehicular
     url: "productos/etiquetas-seguridad-vehicular"
     title: Etiqueta de seguridad para vehículos
   - img: img/trazabilidad-codigo-de-barras.webp
     alt: Etiqueta de trazabilidad interna
     nombre: Etiquetas de trazabilidad 
-    p: Etiquetas y hologramas para la trazabilidad
+    p: Optimiza el control de tu inventario
     url: "blog/trazabilidad-interna"
     title: Trazabilidad interna de activos
   - img: img/sello-trazabilidad.webp
     alt: Marcación activos
     nombre: Marcación de activos fijos
-    p: Protege tus activos fijos con etiquetas y stickers
+    p: Protege tus activos con etiquetas de evidencia
     url: "blog/marcacion-activos-fijos"
     title: Etiquetas para activos fijos
   - img: img/nosotros/foto-de-stiker-holografico-14.webp
     alt: Sticker para garantías
     nombre: Etiquetas de garantía
-    p: Stickers para no perder dinero en garantías
+    p: Etiquetas VOID que protegen tu inversión
     url: "blog/etiquetas-para-garantias"
     title: Adhesivos para garantías
 
@@ -91,7 +91,7 @@ impresoras:
 impresiones:
   - img: img/etiquetas-blancas.webp
     alt: Etiquetas adhesivas para impresión térmica
-    nombre: Etiquetas de papel
+    nombre: Rollos de etiquetas
     p: 🧾 Etiquetas de papel de diferentes tamaños
     url: "productos/etiquetas-de-papel"
     title: Etiquetas de papel para impresora térmica
