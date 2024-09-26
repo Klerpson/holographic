@@ -326,12 +326,14 @@ lord-icon{
 
 .bloques > div{
   position: relative;
-  padding: 32px;
+  padding: 28px 20px;
   display: grid;
   gap: 1em;
   place-content: center;
   place-items: center;
   border-radius: var(--radius);
+  
+  .boton {margin: 0;}
 }
 
 .bloques div video:not(.header_bloque video){
@@ -1160,10 +1162,6 @@ details p {
 }
 
 @media screen and (width >= 1024px) {
-  .bloques > div {
-    padding: 56px 20px;
-  }
-
   .bloque_big {
     grid-column: span 2;
   }
