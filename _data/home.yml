@@ -89,10 +89,10 @@ impresoras:
     title: Evident Tamper
 
 impresiones:
-  - img: img/etiquetas-blancas.webp
+  - img: img/rollos-papel-void.avif
     alt: Etiquetas adhesivas para impresión térmica
-    nombre: Rollos de etiquetas
-    p: 🧾 Etiquetas de papel de diferentes tamaños
+    nombre: Rollos de Papel VOID
+    p: 🧾 Ahorra costos en la impresión de etiquetas
     url: "productos/etiquetas-de-papel"
     title: Etiquetas de papel para impresora térmica
   - img: img/impresora-de-transferencia.webp
