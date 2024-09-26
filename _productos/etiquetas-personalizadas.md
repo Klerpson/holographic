@@ -8,7 +8,7 @@ hero: img/sellos-personalizados.webp
 jpg: img/sellos-personalizados.jpg
 alt: Fotografía de adhesivos personalizados
 enlaces:
-  - Conoce el servicio de hologramas personalizadas: '#personalizacion'
+  - Pide tus hologramas personalizadas: '#personalizacion'
   - Características de los hologramas personalizadas: '#caracteristicas'
   - Etiquetas personalizadas con Tamper Evident: '#como-funciona'
   - Tamaños y colores de la impresión personalizada: '#colores'
@@ -62,11 +62,11 @@ Nuestros hologramas personalizados son **piezas de marcas holográficas** con di
 Como verás en la siguiente sección, su variedad de elementos de seguridad todo un conjunto de herramientas antifalsificación. Adicionalmente, le agregan un toque único en su diseño para llamar la atención de tus clientes.
 
 ## Las etiquetas holográficas personalizadas son un desarrollo de Holographic con muchos elementos de seguridad
+{:id="caracteristicas"}
 
 ### ¿Cuáles son las características de los hologramas personalizados?
 
 Nuestros hologramas personalizados son piezas holográficas con diseños exclusivos únicos en el mercado. Los utilizan las empresas como elementos de diferenciación y protección sobre sus productos, y previenen posibles falsificaciones y adulteraciones.
-{:id="enlace1"}
 
 ![Imagen de un sticker holográfico explicando sus partes]({{'img/stikcer-personalizado-explicado.webp' | relative_url}} "Sello personalizado Holographic"){:loading="lazy"}
 ![Desarrollo de holograma personalizado]({{'img/desarrollo-holograma-personalizado.webp' | relative_url}} "Sello personalizado Holographic"){:loading="lazy"}
