@@ -20,6 +20,9 @@ Aprende a interpretar correctamente estas etiquetas, para que puedas garantizar 
 
 ¡Comencemos!
 
+>En Holographic *no trabajamos con etiquetas de seguridad para productos químicos*. Aquí te queremos informar sobre esta otra rama de la impresión de seguridad. Te invitamos a conocer nuestro **catálogo antifalsificación para cuidar la inversión en tus productos químicos**  
+[Conoce el catálogo]({{'catalogo'|relative_url}} "Catálogo de etiquetas holograficas autoadheribles"){:class="boton boton_1" target="_blank"}
+
 ## ¿Qué son las etiquetas de seguridad para productos químicos?
 
 Las etiquetas de seguridad **son una herramienta crucial** y universalmente utilizada para la **marcación de productos químicos**. Estas etiquetas proporcionan información clave sobre los riesgos asociados con la sustancia en específico y sobre las medidas de precaución necesarias.
