@@ -665,7 +665,6 @@ nav .icono-nav .line {
   
 .entradas{
   display: grid;
-  gap: 32px;
 }
 
 .entradas div article h3{
@@ -723,6 +722,7 @@ nav .icono-nav .line {
   padding-left: 40px;
   padding-right: 40px;
   border-radius: var(--radius);
+  background-color: var(--gris);
 }
 
 .footer div{

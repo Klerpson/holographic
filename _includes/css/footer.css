@@ -6,6 +6,7 @@
   padding-left: 40px;
   padding-right: 40px;
   border-radius: var(--radius);
+  background-color: var(--gris);
 }
 
 .footer div{
