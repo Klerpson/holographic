@@ -4,7 +4,7 @@ title: "Stickers holográficos y etiquetas adhesivas personalizadas"
 description: "Destaca tus productos con stickers holográficos y etiquetas adhesivas personalizadas. Diseños exclusivos que cautivan. ¡Solicita una cotización ahora!"
 h1: Stickers holográficos personalizados 
 intro: Personaliza y protege tus productos con stickers holográficos y etiquetas adhesivas únicas.
-hero: img/sellos-personalizados.webp
+hero: img/etiqueta-con-holograma-personalizada.avif
 jpg: img/sellos-personalizados.jpg
 alt: Fotografía de adhesivos personalizados
 enlaces:
@@ -14,10 +14,10 @@ enlaces:
   - Tamaños y colores de la impresión personalizada: '#colores'
 puntos-dolor:
   - Holograma personalizado: "img/holograma-exclusivo.webp"
-  - Destaca tu marca: "img/nosotros/foto-de-stiker-holografico-15.webp"
+  - Personaliza para destacar tu marca: "img/nosotros/foto-de-stiker-holografico-15.webp"
   - Protege y destaca a la vez: "img/holograma-personalizado.webp"
-  - Personaliza y controla: "img/nosotros/foto-de-stiker-holografico-2.webp"
-  - Evita las falsificaciones: "img/sticker-personalizado.webp"
+  - Personaliza y controla: "img/sticker-holografico-personalizado-antifalsificacion.avif"
+  - Evita las falsificaciones: "img/etiquetas-personalizadas-con-holograma.avif"
 videos:
   - videos/adhesivo-premium.mp4
   - videos/holograma-personalizado.mp4
@@ -69,7 +69,8 @@ Como verás en la siguiente sección, su variedad de elementos de seguridad todo
 Nuestros hologramas personalizados son piezas holográficas con diseños exclusivos únicos en el mercado. Los utilizan las empresas como elementos de diferenciación y protección sobre sus productos, y previenen posibles falsificaciones y adulteraciones.
 
 ![Imagen de un sticker holográfico explicando sus partes]({{'img/stikcer-personalizado-explicado.webp' | relative_url}} "Sello personalizado Holographic"){:loading="lazy"}
-![Desarrollo de holograma personalizado]({{'img/desarrollo-holograma-personalizado.webp' | relative_url}} "Sello personalizado Holographic"){:loading="lazy"}
+![Desarrollo de holograma personalizado]({{'img/modelo-etiqueta-holografica.avif' | relative_url}} "Sello personalizado Holographic"){:loading="lazy"}
+{:style="display: flex; justify-content: center; flex-wrap: wrap; margin: 2em auto"}
   
 * **01 - Efecto degradado**: El efecto de degradado se puede identificar a simple vista, dando movimiento suaves al holograma.
 * **02 - Patrón de línea geométricas**: Patrón de líneas geométricas con alta resolución. Produce cambios visuales diseñados con un software especial único para brindar más seguridad.

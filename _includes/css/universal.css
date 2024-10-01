@@ -334,6 +334,10 @@ lord-icon{
   border-radius: var(--radius);
   
   .boton {margin: 0;}
+
+  img{
+    object-fit: cover;
+  }
 }
 
 .bloques div video:not(.header_bloque video){

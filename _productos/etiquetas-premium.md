@@ -12,11 +12,11 @@ enlaces:
   - Niveles de seguridad de los hologramas premium: '#niveles-de-seguridad'
   - Stickers holográficos premium con evidencia de despagado: '#stickers-premium-con-evidencia-de-despegado'
 puntos-dolor:
-  - Holograma de seguridad premium: img/servicio-premium.webp
+  - Hologramas premium: img/holograma-seguridad-premium.avif
   - Diseño único del sticker holográfico: "img/etiqueta-platinum.webp"
-  - Destaca entre la competencia: "img/sticker-platinum-holographic.webp"
-  - Evita la falsificación de tu sticker: "img/etiqueta-platinum-holographic.webp"
-  - Hologramas con más tecnología: "img/holograma-platinum.webp"
+  - Destaca entre la competencia: "img/etiqueta-holografica-personalizada.avif"
+  - Stickers antifalsificación: "img/etiqueta-platinum-holographic.webp"
+  - Etiquetas con más tecnología: "img/holograma-platinum.webp"
 videos:
   - videos/servicio-premium.mp4
   - videos/holograma-premium.mp4
@@ -30,7 +30,7 @@ fotos:
   - Estampilla premium: img/stickers-premium.webp
   - Imagen de sticker premium: img/holograma-premium-holographic.webp
   - Adhesivo a color premium: img/adhesivo-premium.webp
-  - Sello premium: img/sello-premium.webp
+  - Sello premium: img/etiquetas-de-seguridad-platinum.avif
   - Stickers premium de seguridad: img/servicio-adhesivos-premium.webp
   - Sticker a color premium: img/servicio-stickers-holograficos-premium.webp
   - Sticker premium: img/sticker-evidencia-premium.webp
@@ -144,7 +144,8 @@ Este producto de **los hologramas platinum cuenta con un nivel de seguridad NIVE
 ## Componentes de las etiquetas premium de Holographic
 
 ![Imagen de un sticker holográfico explicando sus partes]({{'img/sello-premium-holographic.webp' | relative_url}} "Sello premium Holographic"){:loading="lazy"}
-![Desarrollo de holograma premium]({{'img/holograma-premium.webp' | relative_url}} "Sello premium Holographic"){:loading="lazy"}
+![Desarrollo de holograma premium]({{'img/etiqueta-holografica-de-seguridad.avif' | relative_url}} "Sello premium Holographic"){:loading="lazy"}
+{:style="display: flex; justify-content: center; flex-wrap: wrap; margin: 2em auto"}
   
 * **01 - Efecto perla**: Este es un efecto en el que algunas partes de la imagen se ajustan para que parezcan perlas reales.
 * **02 - Evidencia de despegado**: Se puede agregar evidencia de despegado.

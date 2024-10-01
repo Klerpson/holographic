@@ -4,7 +4,7 @@ title: "Estampillas para licores: etiqueta de impuestos y rentas"
 description: "Las estampillas para licores son elementos fundamentales para garantizar el cumplimiento de las normas de las autoridades ¡Consíguelas con Holographic!"
 h1: Estampillas para licores
 intro: Con las estampillas para licores protege la reputación de la marca y cumples con la norma.
-hero: img/estampilla-para-licores.webp
+hero: img/etiquetas-holograficas-para-licores.avif
 jpg: img/estampilla-para-licores.jpg
 alt: Fotografía de stickers holográficos para botellas de licor
 enlaces:
@@ -13,7 +13,7 @@ enlaces:
   - Estampillas inviolables e imposibles de falsificar: '#etiquetas-seguras-e-imposibles-de-falsificar'
 puntos-dolor:
   - Etiquetas personalizadas: "img/holograma-exclusivo.webp"
-  - Estampillas que cumplen la norma: "img/estampilla-licores.webp"
+  - Estampillas que cumplen la norma: "img/etiquetas-licor-que-cumple-la-norma-gubernamental.avif"
   - Certifica y destaca a la vez: "img/rollo-estampillas-licores.webp"
   - Evita la falsificación: "img/nosotros/foto-de-stiker-holografico-2.webp"
   - Lleva un control inviolable: "img/pegatina-holografica.webp"
@@ -53,8 +53,9 @@ Las estampillas para las botellas de licor que fabricamos en Holographic son **i
 ## Diseño de las estampillas para licores personalizada
 {:id="hologramas-de-seguridad"}
 
-![Estampilla para licor personalizada]({{'img/estampilla-de-licor-personalizada.webp' | relative_url}} "Estampilla licores")
-![Estampilla para botellas licor]({{'img/estampilla-licores-impuestos.webp' | relative_url}} "Estampilla botellas")
+![Estampilla para licor personalizada]({{'img/estampilla-de-licor-personalizada.webp' | relative_url}} "Estampilla licores"){:loading="lazy"}
+![Estampilla para botellas licor]({{'img/etiqueta-holografica-licor-personalizada.avif' | relative_url}} "Estampilla botellas"){:loading="lazy"}
+{:style="display: flex; justify-content: center; flex-wrap: wrap; margin: 2em auto"}
 
 1. **Código QR con numeración alfanumérica**: [Código legible que consiste en cuadros blancos y negros]({% post_url 2024-06-10-etiquetas-con-codigos-qr %} "Códigos QR"){:target="_blank"}. Estos códigos QR se usan para almacenar URLs u otra información. *Son fácilmente identificables por lectores de códigos de barras o por aplicaciones* de teléfonos inteligentes.
 2. **Patrón labrado sobre la estampilla**: Patrón de líneas geométricas con alta resolución. *Genera cambios visuales diseñados con un software especial* único para brindar mós seguridad.

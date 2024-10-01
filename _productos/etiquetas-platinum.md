@@ -23,7 +23,7 @@ videos:
 fotos:
   - Holograma de seguridad platinum: img/servicio-premium.webp
   - Foto del servicio de stickers paltinum: img/servicio-stickers-platinum.webp
-  - Foto de sticker platinum: img/sticker-platinum.webp
+  - Foto de sticker platinum: img/etiquetas-de-seguridad-platinum.avif
   - Estampilla de licor platinum: img/sticker-holografico-licor.webp
   - Imagen de sticker platinum: img/estampilla-platinum.webp
   - Adhesivo a color platinum: img/adhesivo-platinum.webp

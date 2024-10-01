@@ -4,8 +4,8 @@ title: "Stickers holográficos antifalsifiación para licores"
 description: "Las estampillas para licores y las etiquetas holográficas son elementos fundamentales para evitar la adulteración de las botellas de licor"
 h1: Estampillas y etiquetas para la industria del licor 
 intro: Las estampillas para licores y las etiquetas holográficas son fundamentales en la industria licorera.
-hero: img/estampilla-para-licores.webp
-jpg: img/estampilla-para-licores.jpg
+hero: "img/estampilla-para-licores.webp"
+jpg: "img/estampilla-para-licores.jpg"
 alt: Fotografía de stickers holográficos para botellas de licor
 enlaces:
   - Qué es una estampilla para licores: '#que-son-estampillas-licores'
