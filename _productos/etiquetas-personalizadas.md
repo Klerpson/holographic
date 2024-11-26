@@ -30,14 +30,11 @@ fotos:
   - Sticker transparente personalizado: img/sticker-plata-personalizado.webp
 ---
 
-## Personaliza tus etiquetas holográficas con el desarrollo de Holographic
+## Protege tu Marca con Etiquetas Holográficas de Alta Seguridad
 
-**Nuestras etiquetas personalizadas contienen la información que tu empresa necesita**. Dicha información puede ser: logos, textos, códigos de barras y consecutivos.
+¡Descubre nuestras etiquetas holográficas personalizadas, la solución ideal para empresas que buscan proteger sus productos de la falsificación!
 
-La impresión en este tipo de stickers personalizados puede ser realizada en [color negro, azul, gris, rojo, verde y blanco](#colores).
-
-Son **ideales para consumos desde 1000 unidades hasta 50.000 unidades**.
-{:class="resaltar"}
+En **HOLOGRAPHIC**, ofrecemos un desarrollo exclusivo diseñado especialmente para empresas de bajo consumo (máximo mensual de 10.000 unidades) que desean resguardar su autenticidad.
 
 {% include slider.html %}
 
