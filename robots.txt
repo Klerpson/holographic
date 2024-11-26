@@ -1,5 +1,36 @@
+# www.robotstxt.org/
+# Configuración de robots.txt para Holographic Ecuador
+
+# Permitir a todos los robots
 User-agent: *
 Allow: /
+
+# Permitir rastreo específico de Google Ads
 User-Agent: AdsBot-Google-Mobile
+Allow: /
+
 User-Agent: AdsBot-Google
-Sitemap: https://gurcoff.com/sitemap.xml
+Allow: /
+
+# Configuración específica para Googlebot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Configuración específica para Googlebot-Image
+User-agent: Googlebot-Image
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.avif$
+
+# Bloquear directorios privados
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://holographic.com.ec/sitemap.xml

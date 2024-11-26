@@ -1,99 +1,115 @@
 ---
 layout: null
+sitemap:
+  exclude: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-  {% for page in site.pages %}
-    {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.url contains '.css' or page.noindex %}
-    {% else %}
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+        
+  {% assign pages = site.pages | where_exp: "page", "page.url != '/404.html'" %}
+  {% assign pages = pages | where_exp: "page", "page.url != '/feed.xml'" %}
+  {% assign pages = pages | where_exp: "page", "page.url != '/sitemap.xml'" %}
+  {% assign pages = pages | where_exp: "page", "page.noindex != true" %}
+  
+  <!-- Páginas principales -->
+  {% for page in pages %}
+    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.url contains '.css' %}
       <url>
-        <loc>{{ page.url | absolute_url }}</loc>
+        <loc>{{ page.url | absolute_url | remove: 'index.html' }}</loc>
         <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <changefreq>{% if page.url == "/" %}daily{% else %}monthly{% endif %}</changefreq>
+        <priority>{% if page.url == "/" %}1.0{% else %}0.8{% endif %}</priority>
+        
         {% if page.jpg %}
-          <image:image>
-            <image:loc>{{ page.jpg | absolute_url }}</image:loc>
-            <image:title>{{ page.title }}</image:title>
-            <image:caption>{{ page.alt }}</image:caption>
-          </image:image>
+        <image:image>
+          <image:loc>{{ page.jpg | absolute_url }}</image:loc>
+          <image:title>{{ page.title | xml_escape }}</image:title>
+          <image:caption>{{ page.alt | default: page.title | xml_escape }}</image:caption>
+          <image:geo_location>Ecuador</image:geo_location>
+        </image:image>
         {% endif %}
+        
         {% if page.hero %}
-          <image:image>
-            <image:loc>{{ page.hero | absolute_url }}</image:loc>
-            <image:title>{{ page.title }}</image:title>
-            <image:caption>{{ page.alt }}</image:caption>
-          </image:image>
+        <image:image>
+          <image:loc>{{ page.hero | absolute_url }}</image:loc>
+          <image:title>{{ page.title | xml_escape }}</image:title>
+          <image:caption>{{ page.alt | default: page.title | xml_escape }}</image:caption>
+          <image:geo_location>Ecuador</image:geo_location>
+        </image:image>
         {% endif %}
+        
         {% if page.fotos %}
-          {% for fotos in page.fotos %}
-          {% for foto in fotos %}
-            <image:image>
-              <image:loc>{{ foto[1] | absolute_url }}</image:loc>
-              <image:title>{{ foto[0] }}</image:title>
-            </image:image>
-          {% endfor %}
-          {% endfor %}
+        {% for fotos in page.fotos %}
+        {% for foto in fotos %}
+        <image:image>
+          <image:loc>{{ foto[1] | absolute_url }}</image:loc>
+          <image:title>{{ foto[0] | xml_escape }}</image:title>
+          <image:geo_location>Ecuador</image:geo_location>
+        </image:image>
+        {% endfor %}
+        {% endfor %}
         {% endif %}
+        
         {% if page.videos %}
-          {% for video in page.videos %}
-            <video:video>
-              <video:content_loc>{{ video | absolute_url }}</video:content_loc>
-              <video:title>{{ page.title }}</video:title>
-            </video:video>
-          {% endfor %}
+        {% for video in page.videos %}
+        <video:video>
+          <video:thumbnail_loc>{{ page.jpg | default: page.hero | absolute_url }}</video:thumbnail_loc>
+          <video:title>{{ page.title | xml_escape }}</video:title>
+          <video:description>{{ page.description | xml_escape }}</video:description>
+          <video:content_loc>{{ video | absolute_url }}</video:content_loc>
+          <video:player_loc>{{ video | absolute_url }}</video:player_loc>
+          <video:duration>30</video:duration>
+          <video:family_friendly>yes</video:family_friendly>
+          <video:restriction relationship="allow">EC</video:restriction>
+          <video:platform relationship="allow">web</video:platform>
+          <video:live>no</video:live>
+        </video:video>
+        {% endfor %}
         {% endif %}
       </url>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
   
+  <!-- Posts del blog -->
   {% for post in site.posts %}
     <url>
       <loc>{{ post.url | absolute_url }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <lastmod>{% if post.last_modified_at %}{{ post.last_modified_at | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
+      <priority>0.6</priority>
+      
       {% if post.jpg %}
-        <image:image>
-          <image:loc>{{ post.jpg | absolute_url }}</image:loc>
-          <image:title>{{ post.title }}</image:title>
-          <image:caption>{{ post.alt }}</image:caption>
-        </image:image>
+      <image:image>
+        <image:loc>{{ post.jpg | absolute_url }}</image:loc>
+        <image:title>{{ post.title | xml_escape }}</image:title>
+        <image:caption>{{ post.alt | default: post.title | xml_escape }}</image:caption>
+        <image:geo_location>Ecuador</image:geo_location>
+      </image:image>
       {% endif %}
+      
       {% if post.hero %}
-        <image:image>
-          <image:loc>{{ post.hero | absolute_url }}</image:loc>
-          <image:title>{{ post.title }}</image:title>
-          <image:caption>{{ post.alt }}</image:caption>
-        </image:image>
+      <image:image>
+        <image:loc>{{ post.hero | absolute_url }}</image:loc>
+        <image:title>{{ post.title | xml_escape }}</image:title>
+        <image:caption>{{ post.alt | default: post.title | xml_escape }}</image:caption>
+        <image:geo_location>Ecuador</image:geo_location>
+      </image:image>
       {% endif %}
-    </url>
-  {% endfor %}
-  
-  {% for page in site.without-plugin %}
-    <url>
-      <loc>{{ page.url | absolute_url }}</loc>
-      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      {% if page.jpg %}
-        <image:image>
-          <image:loc>{{ page.jpg | absolute_url }}</image:loc>
-          <image:title>{{ page.title }}</image:title>
-          <image:caption>{{ page.alt }}</image:caption>
-        </image:image>
-      {% endif %}
-      {% if page.hero %}
-        <image:image>
-          <image:loc>{{ page.hero | absolute_url }}</image:loc>
-          <image:title>{{ page.title }}</image:title>
-          <image:caption>{{ page.alt }}</image:caption>
-        </image:image>
-      {% endif %}
+      
+      <news:news>
+        <news:publication>
+          <news:name>{{ site.title }}</news:name>
+          <news:language>es</news:language>
+        </news:publication>
+        <news:publication_date>{{ post.date | date_to_xmlschema }}</news:publication_date>
+        <news:title>{{ post.title | xml_escape }}</news:title>
+      </news:news>
     </url>
   {% endfor %}
 </urlset>

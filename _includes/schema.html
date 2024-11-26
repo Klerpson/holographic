@@ -1,0 +1,113 @@
+{% comment %}
+  _includes/schema.html - Template para implementar Schema.org JSON-LD
+{% endcomment %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  {% if page.layout == 'producto' %}
+  "@type": "Product",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description | strip_html | strip_newlines | truncate: 160 }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "Holographic Ecuador"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Holographic Ecuador",
+    "url": "{{ site.url }}",
+    "areaServed": {
+      "@type": "Country",
+      "name": "Ecuador"
+    }
+  },
+  {% if page.jpg %}
+  "image": "{{ site.url }}{{ page.jpg }}",
+  {% endif %}
+  "category": "Etiquetas de Seguridad",
+  "offers": {
+    "@type": "Offer",
+    "availability": "https://schema.org/InStock",
+    "priceCurrency": "USD",
+    "areaServed": {
+      "@type": "Country",
+      "name": "Ecuador"
+    },
+    "seller": {
+      "@type": "Organization",
+      "name": "Holographic Ecuador"
+    }
+  }
+  {% elsif page.layout == 'post' %}
+  "@type": "BlogPosting",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description | strip_html | strip_newlines | truncate: 160 }}",
+  "articleBody": "{{ content | strip_html | strip_newlines | escape }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
+  {% if page.jpg %}
+  "image": "{{ site.url }}{{ page.jpg }}",
+  {% endif %}
+  "author": {
+    "@type": "Person",
+    "name": "{% if page.autor %}{{ page.autor }}{% else %}{{ site.name }}{% endif %}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Holographic Ecuador",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/img/logotipo.webp"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  }
+  {% else %}
+  "@type": "WebPage",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description | strip_html | strip_newlines | truncate: 160 }}",
+  {% if page.jpg %}
+  "image": "{{ site.url }}{{ page.jpg }}",
+  {% endif %}
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "{{ site.name }}",
+    "url": "{{ site.url }}"
+  }
+  {% endif %}
+}
+</script>
+
+{% comment %}
+  Schema adicional para información de la organización 
+{% endcomment %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Holographic Ecuador",
+  "url": "{{ site.url }}",
+  "logo": "{{ site.url }}/img/logotipo.webp",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "{{ site.telefono }}",
+    "contactType": "customer service",
+    "areaServed": "EC",
+    "availableLanguage": "Spanish"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "EC",
+    "addressRegion": "Pichincha",
+    "addressLocality": "Quito"
+  },
+  "sameAs": [
+    "{{ site.facebook }}",
+    "https://twitter.com/tintoconjuli"
+  ]
+}
+</script>

@@ -1,93 +1,106 @@
 <!DOCTYPE html>
-<html lang="es-ec">
+<html lang="es-ec" dir="ltr">
   <head>
-    <meta charset="utf-8" >
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui" >
-    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" >
-    <link rel="alternate" hreflang="es-ec" href="{{ page.url | absolute_url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}" >
-    <title>{{ page.title}}</title>
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}" >
-    <meta name="description" content="{% if page.description %}{{page.description|strip_html| strip_newlines}}{% else %}{{site.description}}{% endif %}" >
+    <!-- Codificación y compatibilidad -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    
+    <!-- Enlaces principales -->
+    <title>{% if page.title %}{{ page.title }} | {{site.name}}{% else %}{{site.name}} | {{site.description}}{% endif %}</title>
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url }}">
+    
+    <!-- Meta tags SEO -->
+    <meta name="description" content="{% if page.description %}{{page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{site.description}}{% endif %}">
+    <meta name="keywords" content="{% if page.keywords %}{{page.keywords}}{% else %}{{site.keywords}}{% endif %}">
     {% if page.noindex %}
-    <meta name="robots" content="nofollow" >
+    <meta name="robots" content="noindex, nofollow">
     {% else %}
-    <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" >
+    <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
     {% endif %}
-    <meta name="language" content="es_EC">
-    <meta name="country" content="EC">
+
+    <!-- Localización Ecuador -->
+    <meta name="language" content="es-EC">
     <meta name="geo.region" content="EC-P">
     <meta name="geo.placename" content="Quito">
     <meta name="geo.position" content="-0.1807,-78.4678">
     <meta name="ICBM" content="-0.1807,-78.4678">
-    <meta name="theme-color" content="#26436f" >
-    <meta name="generator" content="Jekyll 4.2.0" >
-    <meta name="author" content="{% if page.autor %}{{ page.autor}}{% else %}{{site.name}}{% endif %}" >
-    <meta name="copyright" content="{% if page.copyright %}{{ page.copyright}}{% else %}{{site.name}}{% endif %}" >
-    <meta name="owner" content="{{site.name}}" >
+    <link rel="alternate" href="{{ page.url | absolute_url }}" hreflang="es-ec">
+    
+    <!-- Información del sitio -->
+    <meta name="author" content="{% if page.autor %}{{ page.autor}}{% else %}{{site.name}}{% endif %}">
+    <meta name="copyright" content="{% if page.copyright %}{{ page.copyright}}{% else %}{{site.name}}{% endif %} - {% raw %}{{ 'now' | date: '%Y' }}{% endraw %}">
+    <meta name="theme-color" content="#26436f">
+    <meta name="generator" content="Jekyll">
+    
+    <!-- Open Graph -->
     <meta property="og:locale" content="es_EC">
+    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+    <meta property="og:title" content="{% if page.og_title %}{{ page.og_title }}{% else %}{{ page.title }}{% endif %}">
+    <meta property="og:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}{% if page.description %}{{ page.description | truncate: 200 }}{% else %}{{ site.description }}{% endif %}{% endif %}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:site_name" content="{{ site.name }} Ecuador">
-    <meta property="og:type" content="article" >
-    <meta property="og:title" content="{%if page.title %}{{ page.title}}{% else %}{{ page.h1}}{% endif %}" >
-    <meta property="og:url" content="{{ page.url}}" >
+    
     {% if page.jpg %}
-    <meta property="og:image" content="{{ site.url}}{{ page.jpg}}" >
-    <meta property="og:image:width" content="600" >
-    <meta property="og:image:height" content="400" >
-    <meta property="og:image:alt" content="{{page.alt}}" >
-    <meta property="og:image:type" content="image/jpg" >
+    <!-- Open Graph - Imagen -->
+    <meta property="og:image" content="{{ site.url }}{{ page.jpg }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:alt" content="{{page.alt}}">
+    
+    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@tintoconjuli">
+    <meta name="twitter:creator" content="@tintoconjuli">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:image" content="{{ site.url }}{{ page.jpg }}">
     {% endif %}
-    <meta property="article:publisher" content="{{site.facebook}}" >
-    <meta property="article:author" content="{{site.facebook}}" >
-    {% if page.category %}
-    <meta property="article:section" content="{{page.category}}" >
+    
+    {% if page.layout == 'post' %}
+    <!-- Metadatos específicos para artículos -->
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    <meta property="article:modified_time" content="{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">
+    <meta property="article:author" content="{{site.facebook}}">
+    <meta property="article:publisher" content="{{site.facebook}}">
+    {% if page.category %}<meta property="article:section" content="{{page.category}}">{% endif %}
+    {% if page.tags %}{% for tag in page.tags %}<meta property="article:tag" content="{{tag}}">{% endfor %}{% endif %}
     {% endif %}
-    <meta property="article:published_time" content="{{ page.date}}" >
-    <meta property="article:modified_time" content="{{ page.date}}" >
-    <meta property="article:updated_time" content="{{ page.date}}" >
-    <meta property="og:description" content="{% if page.description %}{{ page.description}}{% else %}{{ page.title}}{% endif %}" >
-    <!-- PRELOADS AND LINKS -->
-    <link rel="preload" as="style" href="{{ 'css/style.css' | relative_url}}" >
-    <link rel="stylesheet" href="{{ 'css/style.css' | relative_url}}" >
-    <link rel="preload" as="font" href="{{'css/fonts/roboto-v32-latin-regular.woff2'|relative_url}}" type="font/woff2" crossorigin >
-    <link rel="preload" as="font" href="{{'css/fonts/roboto-v32-latin-700.woff2'|relative_url}}" type="font/woff2" crossorigin >
-    <link rel="preload" as="font" href="{{'css/fonts/roboto-v32-latin-900.woff2'|relative_url}}" type="font/woff2" crossorigin >
+    
+    <!-- Preconnect -->
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    
+    <!-- Preload recursos críticos -->
+    <link rel="preload" as="style" href="{{ 'css/style.css' | relative_url }}">
+    <link rel="preload" as="font" href="{{ 'css/fonts/roboto-v32-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
+    <link rel="preload" as="font" href="{{ 'css/fonts/roboto-v32-latin-700.woff2' | relative_url }}" type="font/woff2" crossorigin>
+    <link rel="preload" as="font" href="{{ 'css/fonts/roboto-v32-latin-900.woff2' | relative_url }}" type="font/woff2" crossorigin>
+    
+    <!-- Hojas de estilo -->
+    <link rel="stylesheet" href="{{ 'css/style.css' | relative_url }}">
+    
+    <!-- Feeds y Sitemaps -->
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+    <link rel="alternate" type="application/rss+xml" title="{{site.name}}" href="{{ '/feed.xml' | relative_url}}">
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/x-icon" href="{{ 'img/favicon/favicon.ico' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ 'img/favicon/apple-touch-icon.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'img/favicon/apple-touch-icon-180x180.png' | relative_url }}">
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ 'img/favicon/favicon.ico'|relative_url}}" type="image/x-icon" >
-    <link rel="apple-touch-icon" href="{{ 'img/favicon/apple-touch-icon.png'|relative_url}}" >
-    <link rel="apple-touch-icon" sizes="57x57" href="{{ 'img/favicon/apple-touch-icon-57x57.png'|relative_url}}" >
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ 'img/favicon/apple-touch-icon-72x72.png'|relative_url}}" >
-    <link rel="apple-touch-icon" sizes="76x76" href="{{ 'img/favicon/apple-touch-icon-76x76.png'|relative_url}}" >
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ 'img/favicon/apple-touch-icon-114x114.png'|relative_url}}" >
-    <link rel="apple-touch-icon" sizes="120x120" href="{{ 'img/favicon/apple-touch-icon-120x120.png'|relative_url}}" >
-    <link rel="apple-touch-icon" sizes="144x144" href="{{ 'img/favicon/apple-touch-icon-144x144.png'|relative_url}}" >
-    <link rel="apple-touch-icon" sizes="152x152" href="{{ 'img/favicon/apple-touch-icon-152x152.png'|relative_url}}" >
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'img/favicon/apple-touch-icon-180x180.png'|relative_url}}" >
-    <!-- DNS-PREFETCH -->
-<link rel="dns-prefetch" href="https://ajax.googleapis.com">
-<link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
-<link rel="dns-prefetch" href="https://www.facebook.com">
-<link rel="dns-prefetch" href="https://www.google-analytics.com">
-<link rel="dns-prefetch" href="https://www.google.com">
-<link rel="dns-prefetch" href="https://www.google.com.co">
-<link rel="dns-prefetch" href="https://www.googleadservices.com">
-<link rel="dns-prefetch" href="https://www.googletagmanager.com">
-<link rel="preconnect" href="https://www.googletagmanager.com">
-
-<script>
-    window.addEventListener('load', function() {
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-5VMWNNRN');
-  });
-</script>
+    {% include schema.html %}
+    
+    <!-- Google Tag Manager -->
+    <script>
+      window.addEventListener('load', function() {
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5VMWNNRN');
+      });
+    </script>
   </head>
