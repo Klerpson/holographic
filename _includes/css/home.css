@@ -122,3 +122,31 @@
   background-color: var(--accion);
 }
 
+.testimonio img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 2rem auto 1rem;
+  object-fit: cover;
+  box-shadow: var(--shadow);
+}
+
+.testimonio-cita {
+  background-color: #fefefe;
+  font-size: 16px;
+  line-height: 1.6; /* Mejora la legibilidad */
+  color: #555;
+  white-space: normal;
+}
+
+.testimonio-cita p {
+  margin-bottom: 1rem; /* Añade espacio entre párrafos */
+}
+
+.testimonio-cita cite {
+  display: block;
+  margin-top: 1rem;
+  font-weight: 700;
+  color: #333;
+  text-align: right;
+}

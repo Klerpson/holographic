@@ -34,7 +34,7 @@
     {% if page.jpg %}
     <meta property="og:image" content="{{ site.url}}{{ page.jpg}}" >
     <meta property="og:image:width" content="600" >
-    <meta property="og:image:height" content="340" >
+    <meta property="og:image:height" content="400" >
     <meta property="og:image:alt" content="{{page.alt}}" >
     <meta property="og:image:type" content="image/jpg" >
     <meta name="twitter:card" content="summary_large_image">
@@ -55,25 +55,9 @@
     <!-- PRELOADS AND LINKS -->
     <link rel="preload" as="style" href="{{ 'css/style.css' | relative_url}}" >
     <link rel="stylesheet" href="{{ 'css/style.css' | relative_url}}" >
-    <link rel="preload" as="style" href="{{ 'css/fonts/styles.css' | relative_url}}" >
-    <link rel="stylesheet" href="{{ 'css/fonts/styles.css' | relative_url}}" >
-    <link rel="preload" as="font" href="{{'css/fonts/montserrat-v26-latin-700.woff2'|relative_url}}" type="font/woff2" crossorigin >
-    <link rel="preload" as="font" href="{{'css/fonts/montserrat-v26-latin-900.woff2'|relative_url}}" type="font/woff" crossorigin >
-    <link rel="preload" as="font" href="{{'css/fonts/montserrat-v26-latin-regular.woff2'|relative_url}}" type="font/woff2" crossorigin >
-    <link
-      rel="preload"
-      as="font"
-      href="{{site.baseurl}}/css/fonts/karma-v16-latin-regular.woff2"
-      type="font/woff2"
-      crossorigin
-    >
-    <link
-      rel="preload"
-      as="font"
-      href="{{site.baseurl}}/css/fonts/karma-v16-latin-700.woff2"
-      type="font/woff2"
-      crossorigin
-    >
+    <link rel="preload" as="font" href="{{'css/fonts/roboto-v32-latin-regular.woff2'|relative_url}}" type="font/woff2" crossorigin >
+    <link rel="preload" as="font" href="{{'css/fonts/roboto-v32-latin-700.woff2'|relative_url}}" type="font/woff2" crossorigin >
+    <link rel="preload" as="font" href="{{'css/fonts/roboto-v32-latin-900.woff2'|relative_url}}" type="font/woff2" crossorigin >
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ 'img/favicon/favicon.ico'|relative_url}}" type="image/x-icon" >

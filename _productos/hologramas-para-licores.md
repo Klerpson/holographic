@@ -1,5 +1,5 @@
 ---
-layout: industria
+layout: producto
 title: "Stickers holográficos antifalsifiación para licores"
 description: "Las estampillas para licores y las etiquetas holográficas son elementos fundamentales para evitar la adulteración de las botellas de licor"
 h1: Estampillas y etiquetas para la industria del licor 

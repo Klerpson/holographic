@@ -105,29 +105,52 @@ layout: compress
     });
   </script> -->
   <!-- Google Tag Manager Optimizado -->
-  <script>
-    (function (w, d, s, l, i) {
-      // Función para cargar GTM
-      function loadGTM() {
-        w[l] = w[l] || [];
-        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
-        var f = d.getElementsByTagName(s)[0],
-          j = d.createElement(s),
-          dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-      }
-
-      // Cargar GTM de forma diferida
-      if (w.requestIdleCallback) {
-        w.requestIdleCallback(loadGTM, { timeout: 5000 });
-      } else {
-        w.addEventListener('load', function () {
-          setTimeout(loadGTM, 0);
-        });
-      }
-    })(window, document, 'script', 'dataLayer', 'GTM-5VMWNNRN');
+  
+<script>
+  const slider = document.querySelector('.slide-container');
+  const prevBtn = document.querySelector('#prevBtn');
+  const nextBtn = document.querySelector('#nextBtn');
+  let isDragging = false, startX, startScrollLeft;
+  
+  // Botones de navegación
+  prevBtn.addEventListener('click', () => {
+      slider.scrollLeft -= slider.offsetWidth;
+  });
+  
+  nextBtn.addEventListener('click', () => {
+      slider.scrollLeft += slider.offsetWidth;
+  });
+  
+  // Funcionalidad de arrastrar
+  const dragStart = (e) => {
+      isDragging = true;
+      slider.classList.add('dragging');
+      startX = e.pageX || e.touches[0].pageX;
+      startScrollLeft = slider.scrollLeft;
+  };
+  
+  const dragging = (e) => {
+      if(!isDragging) return;
+      e.preventDefault();
+      const x = e.pageX || e.touches[0].pageX;
+      const walk = (x - startX);
+      slider.scrollLeft = startScrollLeft - walk;
+  };
+  
+  const dragStop = () => {
+      isDragging = false;
+      slider.classList.remove('dragging');
+  };
+  
+  slider.addEventListener('mousedown', dragStart);
+  slider.addEventListener('touchstart', dragStart);
+  
+  slider.addEventListener('mousemove', dragging);
+  slider.addEventListener('touchmove', dragging);
+  
+  slider.addEventListener('mouseup', dragStop);
+  slider.addEventListener('mouseleave', dragStop);
+  slider.addEventListener('touchend', dragStop);
   </script>
   <!-- End Google Tag Manager Optimizado -->
   <script defer src="{{ '/js/whatsapp.js' | relative_url }}"></script>

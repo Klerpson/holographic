@@ -2,20 +2,22 @@
 {% case layout %}
 
 {% when "default" %}
-<header class="bloques wrapper">
-  <div class="header_mini_bloque bg">
-    <h2>Proteja su marca y sus productos con hologramas antifalsificación</h2>
-    <img src="{{ 'img/sticker-holografico-azul-turquesa.webp' | relative_url }}" alt="Sticker de Holographic" title="Etiqueta de seguridad" width="200" height="128">
-  </div>
-  <div class="header_bloque bloque_big" style="background: transparent;">
-    <video autoplay muted loop playsinline preload="auto">
-      <source src="{{ 'videos/sticker-premium.mp4' | relative_url }}" type="video/mp4">
-      Tu navegador no soporta la etiqueta de video.
-    </video>
-    <div>
-      <p>{{page.intro}}</p>
-      <h1>{{page.h1}}</h1>
-      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
+<header class="wrapper">
+  <div class="bloques">
+    <div class="header_mini_bloque bg">
+      <h2>Proteja su marca y sus productos con hologramas antifalsificación</h2>
+      <img src="{{ 'img/sticker-holografico-azul-turquesa.webp' | relative_url }}" alt="Sticker de Holographic" title="Etiqueta de seguridad" width="200" height="128" loading="eager">
+    </div>
+    <div class="header_bloque bloque_big" style="background: transparent;">
+      <video autoplay muted loop playsinline preload="auto">
+        <source src="{{ 'videos/sticker-premium.mp4' | relative_url }}" type="video/mp4">
+        Tu navegador no soporta la etiqueta de video.
+      </video>
+      <div>
+        <h1>{{page.h1}}</h1>
+        <p>{{page.intro}}</p>
+        {% include boton.html title="Escribe a Holographic" texto="Explora más" id="lead_whatsapp" %}
+      </div>
     </div>
   </div>
   
@@ -24,8 +26,8 @@
     <div class="header_bloque flow">
       <h1>{{page.h1}}</h1>
     </div>
-    <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
-    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
+    <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg" loading="eager">
+    {% include boton.html title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
 
 {% when "post" %}
 <header class="post_header wrapper">
@@ -35,25 +37,27 @@
     <small>Autor: {{page.autor}} | Temática: {{page.category}}</small>
     <small><b>📍Estás aquí: </b><a href="/" title="Página de inicio">Inicio</a>/<a href="{{'blog' | relative_url}}" title="Blog Holographic">Blog</a>/{{page.title}}</small>
   </div>
-    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
+    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340" loading="eager">
 
 {% else %}
-<header class="bloques wrapper">
-  <div class="header_bloque bloque_big">
-    <img src="{{page.hero |relative_url}}" alt="{{page.alt}}">
-    <div>
-      <h1>{{page.h1}}</h1>
-      <p>{{page.intro}}</p>
-      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
+<header class="wrapper">
+  <div class="bloques">
+    <div class="header_bloque bloque_big">
+      <img src="{{page.hero |relative_url}}" alt="{{page.alt}}" loading="eager">
+      <div>
+        <h1>{{page.h1}}</h1>
+        <p>{{page.intro}}</p>
+        {% include boton.html title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
+      </div>
     </div>
-  </div>
-  <div class="header_mini_bloque bg">
-    <h4>Accesos rápidos</h4>
-    {% for items in page.enlaces %}
-    {% for item in items %}
+    <div class="header_mini_bloque bg">
+      <h4>Accesos rápidos</h4>
+      {% for items in page.enlaces %}
+      {% for item in items %}
       <a href="{{item[1]}}">› {{item[0]}}</a>
-    {% endfor %}
-    {% endfor %}
+      {% endfor %}
+      {% endfor %}
+    </div>
   </div>
 {% endcase %}
 </header>
