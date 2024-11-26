@@ -16,7 +16,7 @@
       <div>
         <h1>{{page.h1}}</h1>
         <p>{{page.intro}}</p>
-        {% include boton.html title="Escribe a Holographic" texto="Explora más" id="lead_whatsapp" %}
+        {% include boton.html texto="Explora más" %}
       </div>
     </div>
   </div>
@@ -27,7 +27,7 @@
       <h1>{{page.h1}}</h1>
     </div>
     <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg" loading="eager">
-    {% include boton.html title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
+    {% include boton.html texto="Asesórate gratis" %}
 
 {% when "post" %}
 <header class="post_header wrapper">
@@ -46,7 +46,7 @@
       <div>
         <h1>{{page.h1}}</h1>
         <p>{{page.intro}}</p>
-        {% include boton.html title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
+        {% include boton.html texto="Te asesoramos" %}
       </div>
     </div>
     <img src="{{page.hero |relative_url}}" alt="{{page.alt}}" loading="eager">

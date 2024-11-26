@@ -7,11 +7,6 @@ intro: Un diseño holográfico único que refleja la calidad de su marca.
 hero: img/etiqueta-con-holograma-personalizada.avif
 jpg: img/sellos-personalizados.jpg
 alt: Fotografía de adhesivos personalizados
-enlaces:
-  - Pide tus hologramas personalizadas: '#personalizacion'
-  - Características de los hologramas personalizadas: '#caracteristicas'
-  - Etiquetas personalizadas con Tamper Evident: '#como-funciona'
-  - Tamaños y colores de la impresión personalizada: '#colores'
 puntos-dolor:
   - Holograma personalizado: "img/holograma-exclusivo.webp"
   - Personaliza para destacar tu marca: "img/nosotros/foto-de-stiker-holografico-15.webp"
@@ -34,8 +29,6 @@ fotos:
   - Sello a color personalizado: img/sello-color-personalizado.webp
   - Sticker transparente personalizado: img/sticker-plata-personalizado.webp
 ---
-{% include pedido.html %}
-{:id="personalizacion"}
 
 ## Personaliza tus etiquetas holográficas con el desarrollo de Holographic
 
@@ -159,3 +152,5 @@ Al igual que los hologramas de color, también pueden ser impresos en color negr
 | 70x10 mm | Patrón registrado | Rectangular | Dorado, Plateado, Turquesa |
 
 [Haz un pedido según la medida](#personalizacion){:class="boton boton_1"}
+
+{% include pedido.html %}
