@@ -3,7 +3,7 @@ layout: producto
 title: "Stickers holográficos y etiquetas adhesivas personalizadas"
 description: "Destaca tus productos con stickers holográficos y etiquetas adhesivas personalizadas. Diseños exclusivos que cautivan. ¡Solicita una cotización ahora!"
 h1: Stickers holográficos personalizados 
-intro: Personaliza y protege tus productos con stickers holográficos y etiquetas adhesivas únicas.
+intro: Un diseño holográfico único que refleja la calidad de su marca.
 hero: img/etiqueta-con-holograma-personalizada.avif
 jpg: img/sellos-personalizados.jpg
 alt: Fotografía de adhesivos personalizados

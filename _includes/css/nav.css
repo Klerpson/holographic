@@ -27,6 +27,8 @@ nav {
   gap: 4px;
   align-items: center;
   justify-content: center;
+
+  &> a{text-decoration: none;}
 }
 
 .navegacion .boton:last-child {

@@ -41,23 +41,15 @@
 
 {% else %}
 <header class="wrapper">
-  <div class="bloques">
-    <div class="header_bloque bloque_big">
-      <img src="{{page.hero |relative_url}}" alt="{{page.alt}}" loading="eager">
+  <div class="dos_columnas">
+    <div class="bg_marca header_bloque">
       <div>
         <h1>{{page.h1}}</h1>
         <p>{{page.intro}}</p>
         {% include boton.html title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
       </div>
     </div>
-    <div class="header_mini_bloque bg">
-      <h4>Accesos rápidos</h4>
-      {% for items in page.enlaces %}
-      {% for item in items %}
-      <a href="{{item[1]}}">› {{item[0]}}</a>
-      {% endfor %}
-      {% endfor %}
-    </div>
+    <img src="{{page.hero |relative_url}}" alt="{{page.alt}}" loading="eager">
   </div>
 {% endcase %}
 </header>
